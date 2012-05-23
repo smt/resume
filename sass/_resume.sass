@@ -1,0 +1,55 @@
+h1.title
+  font-size: 250%
+  margin-bottom: 0
+  +respond-to(medium-screen)
+    font-size: 425%
+  +respond-to(large-screen)
+    float: left
+    font-size: 425%
+    width: 59%
+
+.level1
+  margin-bottom: 4em
+
+.level2
+  ul
+    +columns(17em 3)
+    li
+      display: block
+    strong
+      display: block
+      position: relative
+      &:before
+        content: '>'
+        display: block
+        height: 1em
+        width: 1em
+        position: absolute
+        top: 0
+        left: -2em
+        overflow: hidden
+
+#front-end-web-developer
+  +respond-to(large-screen)
+    float: right
+    margin-bottom: 0
+    padding-top: 2.5em
+    width: 40%
+  h1
+    font-size: 110%
+    margin: 0.2em 0
+  ul
+    margin-top: 0.2em
+    padding-left: 1.3em
+
+#summary
+  +respond-to(large-screen)
+    clear: both
+
+#experience
+  h2
+    margin-bottom: 0
+  .level2
+    p
+      margin-top: 0
+

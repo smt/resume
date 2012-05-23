@@ -1,0 +1,144 @@
+html
+  margin: 0
+  padding: 1em
+
+body
+  -webkit-font-smoothing: antialiased
+  font: 16px helvetica,arial,freesans,clean,sans-serif
+  line-height: 1.4em
+  color: #333
+  border: none
+  line-height: 1.5
+  margin: 0 auto
+  max-width: 900px
+  text-align: left
+  color: black
+  background: #fff
+
+img
+  max-width: 100%
+
+@media screen
+  #wrapper
+    padding: 9px
+    background: #F8F8F8
+    border: 1px solid #E9E9E9
+
+h1
+  font-size: 170%
+  border-top: 4px solid #aaa
+  padding-top: .5em
+  margin-top: 1.5em
+  &:first-child
+    margin-top: 0
+    padding-top: 0.25em
+    border-top: none
+
+h2
+  font-size: 150%
+  margin-top: 1.5em
+  border-top: 4px solid #e0e0e0
+  padding-top: .5em
+
+h3
+  margin-top: 1em
+
+p
+  margin: 1em 0
+  line-height: 1.5em
+
+pre, code
+  font: 12px 'Bitstream Vera Sans Mono','Courier',monospace
+
+pre
+  -webkit-box-shadow: rgba(0, 0, 0, 0.066) 0px 1px 2px 0px inset
+  background-color: #EEE
+  border: #ddd 1px solid
+  color: #444
+  display: block
+  margin: 12px 0
+  overflow: auto
+  padding: 5px
+  white-space: pre
+  max-width: 100%
+  overflow: auto
+
+code
+  background-color: ghostWhite
+  color: #444
+  padding: 0 .2em
+  border: 1px solid #DEDEDE
+
+pre code
+  padding: 0
+  font-size: 12px
+  background-color: #EEE
+  border: none
+  overflow: visible
+
+a
+  border-bottom: 1px solid #fff
+  color: darken($link-color, 20%)
+  text-decoration: none
+  +transition(background-color 500ms, border-bottom-color 500ms, color 500ms)
+  &:hover
+    background-color: lighten($link-color, 20%)
+    border-bottom-color: $link-color
+    color: darken($link-color, 30%)
+  code
+    color: $link-color
+    text-decoration: none
+
+table td
+  border-bottom: 1px solid #DDD
+  padding: .2em 1em
+
+.shadow
+  -webkit-box-shadow: 0 5px 15px #000
+  -moz-box-shadow: 0 5px 15px #000
+  box-shadow: 0 5px 15px #000
+
+@import "pygments"
+
+.poetry pre
+  font-family: Georgia, Garamond, serif
+  font-style: italic
+  font-size: 110%
+  line-height: 1.6em
+  display: block
+  margin-left: 1em
+  code
+    font-family: Georgia, Garamond, serif
+
+sup, sub, a.footnote
+  font-size: 1.4ex
+  height: 0
+  line-height: 1
+  vertical-align: super
+  position: relative
+
+sub
+  vertical-align: sub
+  top: -1px
+
+@media print
+  body
+    background: #fff
+  img, pre, blockquote, table, figure
+    page-break-inside: avoid
+  .footnotes
+    page-break-before: always
+  #wrapper
+    background: #fff
+    border: none
+  code
+    background-color: #fff
+    color: #444!important
+    padding: 0 .2em
+    border: 1px solid #DEDEDE
+  pre
+    code
+      background-color: #fff!important
+      overflow: visible
+    background: #fff
+
