@@ -71,13 +71,19 @@ end
 
 task :default => ["html:generate"]
 
+task :readme do
+  desc "Copy resume to README"
+  system("cp resume.markdown README.markdown")
+end
+
 task :all => [
   "html:generate",
   "pdf:generate",
   "rtf:generate",
   "word:generate",
   "odt:generate",
-  "epub:generate"
+  "epub:generate",
+  "readme"
 ]
 
 desc "Transfer resume files to web"
