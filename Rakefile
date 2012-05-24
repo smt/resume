@@ -69,8 +69,6 @@ namespace :epub do
   end
 end
 
-task :default => ["html:generate"]
-
 task :readme do
   desc "Copy resume to README"
   system("cp resume.markdown README.markdown")
@@ -92,3 +90,5 @@ task :push do
   system("scp resume.* #{path}")
   system("scp resume.html #{path}/index.html")
 end
+
+task :default => ["html:generate"]
