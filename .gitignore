@@ -1,2 +1,7 @@
 .sass-cache
 *.indd
+*.log
+*.mp
+*.tmp
+*.tui
+*.tuo
