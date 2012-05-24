@@ -115,6 +115,23 @@ task :web do
   puts "Done"
 end
 
+desc "Commit change"
+task :ci do
+  puts "Done"
+  system("git checkout master")
+  system("git add resume.* README.markdown index.html")
+  system("git commit -m 'Update resume files'")
+  puts "Done"
+end
+
+desc "Push to GitHub"
+task :push => [:ci] do
+  system("git checkout gh-pages")
+  system("git checkout master index.html")
+  system("git add index.html")
+  system("git commit -m 'Update resume on GitHub Pages'")
+  system("git push -f")
+  system("git checkout master")
 end
 
 task :default => ["html:generate"]
