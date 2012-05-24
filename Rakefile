@@ -108,9 +108,13 @@ task :all => [
 ]
 
 desc "Transfer resume files to web"
-task :push do
+task :web do
+  puts "Transferring files to web..."
   path = "smt@s17r.com:s17r.com/public/resume"
   system("scp resume.* index.html #{path}")
+  puts "Done"
+end
+
 end
 
 task :default => ["html:generate"]
