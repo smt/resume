@@ -70,9 +70,29 @@ namespace :epub do
   end
 end
 
+namespace :asciidoc do
+  desc "Generate AsciiDoc file"
+  task :generate do
+    puts "Generating AsciiDoc file from Markdown"
+    system("pandoc -s -S resume.markdown -t asciidoc -o resume.txt")
+    puts "Done"
+  end
+end
+
+namespace :docbook do
+  desc "Generate DocBook file"
+  task :generate do
+    puts "Generating DocBook file from Markdown"
+    system("pandoc -s -S -w docbook resume.markdown -o resume.db")
+    puts "Done"
+  end
+end
+
 task :readme do
   desc "Copy resume to README"
+  puts "Copying README"
   system("cp resume.markdown README.markdown")
+  puts "Done"
 end
 
 task :all => [
@@ -82,6 +102,8 @@ task :all => [
   "word:generate",
   "odt:generate",
   "epub:generate",
+  "asciidoc:generate",
+  "docbook:generate",
   "readme"
 ]
 

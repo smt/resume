@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                  "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
+<article>
+  <articleinfo>
+    <title></title>
+  </articleinfo>
+<sect1 id="stephen-tudor">
+  <title>Stephen Tudor</title>
+  <sect2 id="front-end-web-developer">
+    <title>Front-end Web Developer</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          On Twitter as
+          <ulink url="http://twitter.com/tudorstudio">@tudorstudio</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          On GitHub as <ulink url="http://github.com/smt">smt</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Blogging at
+          <ulink url="http://stephentudor.com">stephentudor.com</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Answering calls at
+          <ulink url="tel://610-590-4484">610-590-4484</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Returning emails at s@stephentudor.com
+          (<email>//s@stephentudor.com</email>)
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+  <sect2 id="summary">
+    <title>Summary</title>
+    <para>
+      I am an experienced front-end developer who has led development
+      for multiple successful $1MM+ projects. I am passionate about
+      building high quality apps and user interfaces with modern web
+      technologies. Through being conversant in server-side engineering,
+      visual/UX design, and project management practices, I am able to
+      execute end-to-end on a product or project.
+    </para>
+  </sect2>
+  <sect2 id="specialties">
+    <title>Specialties</title>
+    <para>
+      Authoring great user experiences with JavaScript, HTML, and CSS,
+      the pillars of front-end development. Managing and mentoring
+      junior web developers. Writing white papers and API documentation.
+      Experienced in the black art of software estimation, particularly
+      as it pertains to the client side. Offers a strong background in
+      many diverse web technologies and frameworks.
+    </para>
+  </sect2>
+  <sect2 id="experience">
+    <title>Experience</title>
+    <sect3 id="senior-web-developer-at-empathy-lab">
+      <title><emphasis role="strong">Senior Web Developer</emphasis> at
+      <ulink url="http://empathylab.com">Empathy Lab</ulink></title>
+      <para>
+        <emphasis>April 2010 - Present</emphasis>
+      </para>
+      <para>
+        Creating front-end web applications on tight deadlines for
+        marquee clientele. Responsible for estimating work, vetting UX
+        designs prior to development, developing key features, assisting
+        team members on challenging sections of code, performing code
+        reviews, and coordinating releases.
+      </para>
+    </sect3>
+    <sect3 id="web-developer-at-empathy-lab">
+      <title><emphasis role="strong">Web Developer</emphasis> at
+      <ulink url="http://empathylab.com">Empathy Lab</ulink></title>
+      <para>
+        <emphasis>April 2009 - April 2010</emphasis> (1 year 1 month)
+      </para>
+      <para>
+        Authoring standards-based HTML, CSS, and JavaScript for websites
+        representing a broad range of internationally recognized brands:
+        Sesame Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon,
+        Comcast, 21st Century Insurance, Liberty Global, American Red
+        Cross.
+      </para>
+    </sect3>
+    <sect3 id="it-director-at-artisan-custom-doorworks">
+      <title><emphasis role="strong">IT Director</emphasis> at
+      <ulink url="http://artisandoorworks.com">Artisan Custom
+      Doorworks</ulink></title>
+      <para>
+        <emphasis>December 2005 - April 2009</emphasis> (3 years 5
+        months)
+      </para>
+      <para>
+        Designed the corporate website with a library of over 8,000
+        searchable PDF docemunts. Developed in-house sales and
+        management application in Rails, while supporting and
+        customizing business systems and applications.
+      </para>
+    </sect3>
+    <sect3 id="president-at-tudor-studio">
+      <title><emphasis role="strong">President</emphasis> at
+      <ulink url="http://tudorstudio.com">Tudor Studio</ulink></title>
+      <para>
+        <emphasis>January 2002 - Present</emphasis>
+      </para>
+      <para>
+        Providing professional web consulting and development services,
+        from individuals and small businesses to Fortune 500 companies.
+        Designing and developing hosted web applications with open
+        source frameworks like Ruby on Rails. Integrating CMS and
+        eCommerce applications.
+      </para>
+    </sect3>
+    <sect3 id="systems-engineer-at-lockheed-martin-global-telecommunications-defunct">
+      <title><emphasis role="strong">Systems Engineer</emphasis> at
+      Lockheed Martin Global Telecommunications (defunct)</title>
+      <para>
+        <emphasis>May 2000 - January 2002</emphasis> (1 year 9 months)
+      </para>
+      <para>
+        Performed Linix system administration duties for an internal
+        R&amp;D project’s data center. Configured and managed a cluster
+        of web servers through the duration of the project. Company
+        ceased operations in early 2002.
+      </para>
+    </sect3>
+  </sect2>
+  <sect2 id="skills-expertise">
+    <title>Skills &amp; Expertise</title>
+    <para>
+      These are languages, tools, and practices to which I have had
+      exposure over the past 6 years or so. Those things which enjoy
+      routine usage in my daily work are denoted with a
+      <superscript>†</superscript> symbol.
+    </para>
+    <sect3 id="programming-languages">
+      <title>Programming Languages</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <ulink url="http://haskell.org">Haskell</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://java.com">Java</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developer.mozilla.org/en/JavaScript">JavaScript</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://php.net">PHP</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://python.org">Python</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://ruby-lang.org">Ruby</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="markuptemplating-languages-preprocessors">
+      <title>Markup/Templating Languages &amp; Preprocessors</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <ulink url="http://coffeescript.org">CoffeeScript</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.w3.org/Style/CSS/Overview.en.html">CSS</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://en.wikipedia.org/wiki/ERuby">ERB/eRuby</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://haml.info">Haml</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://handlebarsjs.com">Handlebars.js</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developers.whatwg.org">HTML</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://jade-lang.com">Jade</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html">JSTL</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://lesscss.org">LESS</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://liquidmarkup.org">Liquid</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://daringfireball.net/projects/markdown">Markdown</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://mustache.github.com">Mustache</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://sass-lang.com">SASS</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://smarty.net">Smarty</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://learnboost.github.com/stylus">Stylus</ulink>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="frameworks-apis">
+      <title>Frameworks &amp; APIs</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <ulink url="http://documentcloud.github.com/backbone">Backbone.js</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://compass-style.org">Compass</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://codeigniter.com">CodeIgniter</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.djangoproject.com">Django</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://dojotoolkit.org">Dojo</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developers.facebook.com">FaceBook Open
+            Graph</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developers.gigya.com">Gigya</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developers.google.com/maps">Google Maps
+            API</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://jquery.com">jQuery</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://middlemanapp.com">Middleman</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://nodejs.org">Node.js</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://prototypejs.org">Prototype.js</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://requirejs.org">Require.js</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://rubyonrails.org">Ruby on Rails</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://sinatrarb.com">Sinatra</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://dev.twitter.com">Twitter API</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://wordpress.org">Wordpress</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developer.yahoo.com/yui">YUI</ulink>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="standards-patterns-practices">
+      <title>Standards, Patterns &amp; Practices</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Modern Web Standards<footnote>
+              <para>
+                As specified/recommended by the
+                <ulink url="http://w3c.org">W3C</ulink> and
+                <ulink url="http://whatwg.org">WHAT-WG</ulink> bodies
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Software design patterns<footnote>
+              <para>
+                Examples: Singleton, Module, Factory, Observer/Mediator,
+                MVC/MVVM
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            TDD/BDD<footnote>
+              <para>
+                Test-Driven Development &amp; Behavior-Driven
+                Development
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="software-tools">
+      <title>Software &amp; Tools</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <ulink url="http://www.adobe.com/products/creativesuite.html">Adobe
+            Creative Suite</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://aws.amazon.com">Amazon Web
+            Services</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://apache.org">Apache</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://developer.apple.com">Apple XCode</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://atlassian.com/software/jira">Atlassian
+            JIRA</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://demandware.com">Demandware</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://git-scm.com">Git</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://jboss.org">JBoss</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://apple.com/macosx">Mac OS
+            X</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://mongodb.org">MongoDB</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://mysql.com">MySQL</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://wiki.nginx.org">Nginx</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.oracle.com/us/products/applications/web-commerce/atg">Oracle
+            ATG</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://johnmacfarlane.net/pandoc">Pandoc</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://postgresql.org">PostgreSQL</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://rvm.beginrescueend.com">rvm</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://svn.apache.org">Subversion</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://tmux.sourceforge.net">tmux</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://tomcat.apache.com">Tomcat</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://ubuntu.com">Ubuntu Linux</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://vagrantup.com">Vagrant</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.vim.org">Vim</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://virtualbox.org">VirtualBox</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.zsh.org">zsh</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+  </sect2>
+  <sect2 id="education">
+    <title>Education</title>
+    <para>
+      <ulink url="http://sju.edu">Saint Joseph’s University</ulink>,
+      Erivan K. Haub School of
+      Business<literallayout></literallayout>BS, Information Systems,
+      1996 - 2000
+    </para>
+  </sect2>
+  <sect2 id="honors-and-awards">
+    <title>Honors and Awards</title>
+    <para>
+      <emphasis>Unsung Hero</emphasis>, Empathy Lab, May
+      2011<literallayout></literallayout>A peer-awarded honor which I’ll
+      always be terribly proud to have won.
+    </para>
+  </sect2>
+  <sect2 id="interests">
+    <title>Interests</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Being a dad and spending time with my family
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Playing
+          <ulink url="http://boardgamegeek.com/user/smtudor">board and
+          card games</ulink> (and video games)
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Making and listening to
+          <ulink url="http://www.rdio.com/people/smtudor">music</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Watching and contributing to Open Source Software
+        </para>
+      </listitem>
+    </itemizedlist>
+    <para>
+      <br> <br> <br> ©2012 <ulink url="http://s17r.com/resume">Stephen
+      Tudor</ulink>. All rights reserved. Direct contact only desired
+      (no recruiters please).
+    </para>
+  </sect2>
+</sect1>
+</article>
