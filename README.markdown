@@ -1,11 +1,8 @@
-% Stephen Tudor
-<!-- % Stephen Tudor -->
-<!-- % May 16, 2012 -->
+Stephen Tudor
+=============
 
 Front-end Web Developer
-=======================
-
-<!-- [http://tudorstudio.com](http://tudorstudio.com)    -->
+-----------------------
 
 - On Twitter as [@tudorstudio](http://twitter.com/tudorstudio)
 - On GitHub as [smt](http://github.com/smt)
@@ -14,28 +11,28 @@ Front-end Web Developer
 - Returning emails at [s@stephentudor.com](mailto://s@stephentudor.com)
 
 Summary
-=======
+-------
 
-Experienced front-end developer who has led development for multiple successful
-$1MM+ projects. Passionate about building high quality apps and user interfaces
-with modern web technologies. Able to execute a product or project end-to-end
-through being conversant in server-side engineering, visual/UX design, and
-project management practices.
+I am an experienced front-end developer who has led development for multiple
+successful $1MM+ projects. I am passionate about building high quality apps and
+user interfaces with modern web technologies. Through being conversant in
+server-side engineering, visual/UX design, and project management practices,
+I am able to execute end-to-end on a product or project.
+
 
 Specialties
-===========
+-----------
 
-Authoring great user experiences with JavaScript, HTML, and CSS. Managing and
-mentoring junior web developers. Writing white papers and API documentation.
-Experienced in the black art of software estimation, particularly as it
-pertains to the client side. Offers a strong background in many diverse web
-technologies and frameworks.
+Authoring great user experiences with JavaScript, HTML, and CSS, the pillars of
+front-end development. Managing and mentoring junior web developers. Writing
+white papers and API documentation. Experienced in the black art of software
+estimation, particularly as it pertains to the client side. Offers a strong
+background in many diverse web technologies and frameworks.
 
 Experience
-==========
+----------
 
-**Senior Web Developer** at [Empathy Lab](http://empathylab.com)
-----------------------------------------------------------------
+### **Senior Web Developer** at [Empathy Lab](http://empathylab.com)
 
 *April 2010 - Present*
 
@@ -44,8 +41,7 @@ Responsible for estimating work, vetting UX designs prior to development,
 developing key features, assisting team members on challenging sections of
 code, performing code reviews, and coordinating releases.
 
-**Web Developer** at [Empathy Lab](http://empathylab.com)
----------------------------------------------------------
+### **Web Developer** at [Empathy Lab](http://empathylab.com)
 
 *April 2009 - April 2010* (1 year 1 month)
 
@@ -54,8 +50,7 @@ a broad range of internationally recognized brands: Sesame Street, Sprout,
 Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st Century Insurance,
 Liberty Global, American Red Cross.
 
-**IT Director** at [Artisan Custom Doorworks](http://artisandoorworks.com)
---------------------------------------------------------------------------
+### **IT Director** at [Artisan Custom Doorworks](http://artisandoorworks.com)
 
 *December 2005 - April 2009* (3 years 5 months)
 
@@ -63,8 +58,7 @@ Designed the corporate website with a library of over 8,000 searchable PDF
 docemunts. Developed in-house sales and management application in Rails, while
 supporting and customizing business systems and applications.
 
-**President** at [Tudor Studio](http://tudorstudio.com)
--------------------------------------------------------
+### **President** at [Tudor Studio](http://tudorstudio.com)
 
 *January 2002 - Present*
 
@@ -73,8 +67,7 @@ individuals and small businesses to Fortune 500 companies. Designing and
 developing hosted web applications with open source frameworks like Ruby on
 Rails. Integrating CMS and eCommerce applications.
 
-**Systems Engineer** at Lockheed Martin Global Telecommunications (defunct)
----------------------------------------------------------------------------
+### **Systems Engineer** at Lockheed Martin Global Telecommunications (defunct)
 
 *May 2000 - January 2002* (1 year 9 months)
 
@@ -83,123 +76,107 @@ center. Configured and managed a cluster of web servers through the duration of
 the project. Company ceased operations in early 2002.
 
 Skills & Expertise
-==================
+------------------
 
 These are languages, tools, and practices to which I have had exposure over the
 past 6 years or so. Those things which enjoy routine usage in my daily work are
-given priority as well as **emphasis**.
+denoted with a ^†^ symbol.
 
-Programming Languages
----------------------
+### Programming Languages
 
-- **[JavaScript](http://developer.mozilla.org/en/JavaScript)**
-- **[Ruby](http://ruby-lang.org)**
+- [Haskell](http://haskell.org)
 - [Java](http://java.com)
-- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
+- [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
 - [Python](http://python.org)
+- [Ruby](http://ruby-lang.org)^†^
 
-Markup/Templating Languages & Preprocessors
--------------------------------------------
+### Markup/Templating Languages & Preprocessors
 
-- **[CSS, CSS3](http://www.w3.org/Style/CSS/Overview.en.html)**
-- **[HTML, HTML 5](http://developers.whatwg.org)**
-- **[Liquid](http://liquidmarkup.org)**
-- **[Markdown](http://daringfireball.net/projects/markdown)**
-- **[SASS](http://sass-lang.com)**
 - [CoffeeScript](http://coffeescript.org)
+- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
 - [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
 - [Haml](http://haml.info)
 - [Handlebars.js](http://handlebarsjs.com)
-- [ISML](http://www.demandware.com)
-- [jQuery.tmpl](http://api.jquery.com/jquery.tmpl)
-- [LESS](http://lesscss.org)
+- [HTML](http://developers.whatwg.org)^†^
+- [Jade](http://jade-lang.com)
+- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)^†^
+- [LESS](http://lesscss.org)^†^
+- [Liquid](http://liquidmarkup.org)
+- [Markdown](http://daringfireball.net/projects/markdown)^†^
 - [Mustache](http://mustache.github.com)
+- [SASS](http://sass-lang.com)^†^
 - [Smarty](http://smarty.net)
-- [XML](http://xml.com)
+- [Stylus](http://learnboost.github.com/stylus)
 
-Frameworks & APIs
------------------
+### Frameworks & APIs
 
-- **[Backbone.js](http://documentcloud.github.com/backbone)**
-- **[Compass](http://compass-style.org)**
-- **[jQuery](http://jquery.com)**
+- [Backbone.js](http://documentcloud.github.com/backbone)^†^
+- [Compass](http://compass-style.org)^†^
 - [CodeIgniter](http://codeigniter.com)
 - [Django](http://www.djangoproject.com)
 - [Dojo](http://dojotoolkit.org)
-- [ExpressionEngine](http://expressionengine.com)
 - [FaceBook Open Graph](http://developers.facebook.com)
 - [Gigya](http://developers.gigya.com)
 - [Google Maps API](http://developers.google.com/maps)
+- [jQuery](http://jquery.com)^†^
 - [Middleman](http://middlemanapp.com)
 - [Node.js](http://nodejs.org)
 - [Prototype.js](http://prototypejs.org)
-- [Require.js](http://requirejs.org)
+- [Require.js](http://requirejs.org)^†^
 - [Ruby on Rails](http://rubyonrails.org)
 - [Sinatra](http://sinatrarb.com)
 - [Twitter API](http://dev.twitter.com)
 - [Wordpress](http://wordpress.org)
 - [YUI](http://developer.yahoo.com/yui)
-- [Zend Framework](http://framework.zend.com)
 
-Standards, Patterns & Practices
--------------------------------
+### Standards, Patterns & Practices
 
 - Modern Web Standards^[As specified/recommended by the [W3C](http://w3c.org) and [WHAT-WG](http://whatwg.org) bodies]
-- Software design patterns^[I've used the following routinely: Singleton, Module, Factory, Observer/Mediator, and MVC/MVVM]
+- Software design patterns^[Examples: Singleton, Module, Factory, Observer/Mediator, MVC/MVVM]
 - TDD/BDD^[Test-Driven Development & Behavior-Driven Development]
 
-Software & Tools
-----------------
+### Software & Tools
 
-- **[Adobe Creative Suite](http://www.adobe.com/products/creativesuite.html)**
-- **[Apache](http://apache.org)**
-- **[Atlassian JIRA](http://atlassian.com/software/jira)**
-- **[Git](http://git-scm.com)**
-- **[Mac OS X](http://apple.com/macosx)**
-- **[Pandoc](http://johnmacfarlane.net/pandoc)**
-- **[rvm](http://rvm.beginrescueend.com)**
-- **[Subversion](http://svn.apache.org)**
-- **[tmux](http://tmux.sourceforge.net)**
-- **[Vim](http://www.vim.org)**
-- **[zsh](http://www.zsh.org)**
+- [Adobe Creative Suite](http://www.adobe.com/products/creativesuite.html)^†^
 - [Amazon Web Services](http://aws.amazon.com)
-- [ant](http://ant.apache.org)
+- [Apache](http://apache.org)^†^
 - [Apple XCode](http://developer.apple.com)
+- [Atlassian JIRA](http://atlassian.com/software/jira)^†^
 - [Demandware](http://demandware.com)
-- [Eclipse](http://eclipse.org)
-- [Espresso](http://macrabbit.com/espresso)
-- [Heroku](http://heroku.com)
+- [Git](http://git-scm.com)^†^
 - [JBoss](http://jboss.org)
-- [JetBrains WebStorm](http://jetbrains.com/webstorm)
-- [Microsoft Visual Studio](http://microsoft.com/visualstudio/en-us)
+- [Mac OS X](http://apple.com/macosx)^†^
 - [MongoDB](http://mongodb.org)
 - [MySQL](http://mysql.com)
-- [NetBeans](http://www.netbeans.com)
 - [Nginx](http://wiki.nginx.org)
 - [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
+- [Pandoc](http://johnmacfarlane.net/pandoc)^†^
 - [PostgreSQL](http://postgresql.org)
-- [Rake](http://rake.rubyforge.org)
-- [Thor](http://github.com/wycats/thor)
+- [rvm](http://rvm.beginrescueend.com)^†^
+- [Subversion](http://svn.apache.org)
+- [tmux](http://tmux.sourceforge.net)^†^
 - [Tomcat](http://tomcat.apache.com)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Vagrant](http://vagrantup.com)
+- [Vim](http://www.vim.org)^†^
 - [VirtualBox](http://virtualbox.org)
+- [zsh](http://www.zsh.org)^†^
 
 Education
-=========
+---------
 
 [Saint Joseph's University](http://sju.edu), Erivan K. Haub School of Business    
 BS, Information Systems, 1996 - 2000
 
 Honors and Awards
-=================
+-----------------
 
 *Unsung Hero*, Empathy Lab, May 2011    
 A peer-awarded honor which I'll always be terribly proud to have won.
 
 Interests
-=========
+---------
 
 - Being a dad and spending time with my family
 - Playing [board and card games](http://boardgamegeek.com/user/smtudor) (and video games)
