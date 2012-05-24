@@ -11,6 +11,7 @@ namespace :html do
   task :generate => [:styles] do
     puts "Generating standalone HTML file from Markdown"
     system("pandoc -s -S resume.markdown -o resume.html -t html5 --self-contained --section-divs --template=resume-template.html -c css/main.css -H js/main.js")
+    system("cp resume.html index.html")
     puts "Done"
   end
 end
@@ -87,8 +88,7 @@ task :all => [
 desc "Transfer resume files to web"
 task :push do
   path = "smt@s17r.com:s17r.com/public/resume"
-  system("scp resume.* #{path}")
-  system("scp resume.html #{path}/index.html")
+  system("scp resume.* index.html #{path}")
 end
 
 task :default => ["html:generate"]
