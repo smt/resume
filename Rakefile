@@ -127,7 +127,7 @@ end
 desc "Push to GitHub"
 task :push => [:ci] do
   system("git checkout gh-pages")
-  system("git checkout master index.html")
+  system("git checkout -f master index.html")
   system("git add index.html")
   system("git commit -m 'Update resume on GitHub Pages'")
   system("git push -f")
