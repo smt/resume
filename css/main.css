@@ -1,4 +1,5 @@
 html {
+  background: url(../images/clean_textile.png);
   margin: 0;
   padding: 0 1em 1em;
 }
@@ -14,7 +15,6 @@ body {
   max-width: 900px;
   text-align: left;
   color: black;
-  background: white;
 }
 
 img {
@@ -38,14 +38,14 @@ h1 {
   h1 {
     padding-bottom: 0;
     font-size: 425%;
-    -webkit-transition: text-shadow 1s;
-    -moz-transition: text-shadow 1s;
-    -ms-transition: text-shadow 1s;
-    -o-transition: text-shadow 1s;
-    transition: text-shadow 1s;
+    -webkit-transition: text-shadow 700ms linear;
+    -moz-transition: text-shadow 700ms linear;
+    -ms-transition: text-shadow 700ms linear;
+    -o-transition: text-shadow 700ms linear;
+    transition: text-shadow 700ms linear;
   }
   h1:hover {
-    text-shadow: 1px 1px 0px white, 2px 2px 0px #bada55, 3px 3px 0px #bada55, 4px 4px 0px #bada55, 5px 5px 0px #bada55, 6px 6px 0px #bada55, 7px 7px 0px #bada55, 8px 8px 0px #bada55, 9px 9px 0px #bada55;
+    text-shadow: 1px 1px 0px white, 2px 2px 0px #bada55, 3px 3px 0px #bada55, 4px 4px 0px #bada55, 5px 5px 0px #bada55, 6px 6px 0px #bada55, 7px 7px 0px #97ba28;
   }
 }
 @media only screen and (min-width: 900px) {
@@ -56,14 +56,14 @@ h1 {
 }
 
 h2 {
-  font-size: 170%;
+  font-size: 200%;
   margin-top: 1.5em;
 }
 
 h3 {
   font-size: 150%;
   margin-top: 1.5em;
-  border-top: 4px solid #e0e0e0;
+  border-top: 4px solid rgba(0, 0, 0, 0.07);
   padding-top: 0.5em;
 }
 
@@ -407,8 +407,17 @@ sub {
   }
 }
 
+.footnotes {
+  border-top: 4px solid rgba(0, 0, 0, 0.07);
+}
+.footnotes hr {
+  display: none;
+}
+
 #front-end-web-developer {
-  background: #f3f3f3;
+  background: rgba(255, 255, 255, 0.8);
+  border: 4px solid rgba(0, 0, 0, 0.07);
+  border-top: none;
   -webkit-border-radius: 16px;
   -moz-border-radius: 16px;
   -ms-border-radius: 16px;
@@ -416,7 +425,7 @@ sub {
   border-radius: 16px;
   margin-left: 0;
   padding: 1em 0 0.5em 2%;
-  width: 21.5em;
+  width: 21em;
 }
 @media only screen and (min-width: 900px) {
   #front-end-web-developer {

@@ -1,4 +1,5 @@
 html
+  background: url(../images/clean_textile.png)
   margin: 0
   padding: 0 1em 1em
 
@@ -13,7 +14,6 @@ body
   max-width: 900px
   text-align: left
   color: black
-  background: #fff
 
 img
   max-width: 100%
@@ -32,21 +32,21 @@ h1
   +respond-to(medium-screen)
     padding-bottom: 0
     font-size: 425%
-    +transition(text-shadow 1s)
+    +transition(text-shadow 700ms linear)
     &:hover
-      +text-shadow(1px 1px 0px white, 2px 2px 0px $link-color, 3px 3px 0px $link-color, 4px 4px 0px $link-color, 5px 5px 0px $link-color, 6px 6px 0px $link-color, 7px 7px 0px $link-color, 8px 8px 0px $link-color, 9px 9px 0px $link-color)
+      +text-shadow(1px 1px 0px white, 2px 2px 0px $link-color, 3px 3px 0px $link-color, 4px 4px 0px $link-color, 5px 5px 0px $link-color, 6px 6px 0px $link-color, 7px 7px 0px darken($link-color, 15%))
   +respond-to(large-screen)
     float: left
     width: 57%
 
 h2
-  font-size: 170%
+  font-size: 200%
   margin-top: 1.5em
 
 h3
   font-size: 150%
   margin-top: 1.5em
-  border-top: 4px solid #e0e0e0
+  border-top: 4px solid rgba(0,0,0,0.07)
   padding-top: .5em
 
 p
