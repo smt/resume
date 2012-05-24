@@ -10,7 +10,7 @@ namespace :html do
   desc "Generate standalone HTML file"
   task :generate => [:styles] do
     puts "Generating standalone HTML file from Markdown"
-    system("pandoc -s -S resume.markdown -o resume.html -t html5 --self-contained --section-divs --template=resume-template.html -c css/main.css -H js/main.js")
+    system("pandoc -s -S resume.markdown -o resume.html -t html5 --self-contained --section-divs --template=resume-template.html -T \"Stephen Tudor's Resume\" -c css/main.css")
     system("cp resume.html index.html")
     puts "Done"
   end
