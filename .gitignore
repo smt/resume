@@ -3,5 +3,6 @@
 *.log
 *.mp
 *.tmp
+*.top
 *.tui
 *.tuo
