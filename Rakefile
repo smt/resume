@@ -1,5 +1,14 @@
 require "rake"
 
+namespace :rst do
+  desc "Generate reStructuredText file"
+  task :generate do
+    puts "Generating reStructuredText file from Markdown"
+    system("pandoc -s -w rst resume.markdown -o resume.rst")
+    puts "Done"
+  end
+end
+
 namespace :html do
   desc "Compile stylesheet"
   task :styles do
@@ -96,6 +105,7 @@ task :readme do
 end
 
 task :all => [
+  "rst:generate",
   "html:generate",
   "pdf:generate",
   "rtf:generate",
