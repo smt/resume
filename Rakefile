@@ -120,8 +120,9 @@ task :all => [
 desc "Transfer resume files to web"
 task :web do
   puts "Transferring files to web..."
-  path = "smt@s17r.com:s17r.com/public/resume"
-  system("scp resume.* index.html #{path}")
+  path = "smt@s17r.com:s17r.com/public"
+  system("scp resume.* index.html #{path}/resume")
+  system("scp index.html #{path}")
   puts "Done"
 end
 
