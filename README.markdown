@@ -71,7 +71,7 @@ Rails. Integrating CMS and eCommerce applications.
 
 *May 2000 - January 2002* (1 year 9 months)
 
-Performed Linix system administration duties for an internal R&D project's data
+Performed Unix system administration duties for an internal R&D project's data
 center. Configured and managed a cluster of web servers through the duration of
 the project. Company ceased operations in early 2002.
 
