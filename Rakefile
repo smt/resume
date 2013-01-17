@@ -130,7 +130,7 @@ desc "Commit change"
 task :ci do
   puts "Done"
   system("git checkout master")
-  system("git add resume.* README.markdown index.html")
+  system("git add resume.db resume.docx resume.epub resume.html resume.markdown resume.odt resume.pdf resume.rst resume.rtf resume.tex resume.txt README.markdown index.html")
   system("git commit -m 'Update resume files'")
   puts "Done"
 end
