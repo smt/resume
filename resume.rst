@@ -212,5 +212,5 @@ Interests
 -  Making and listening to `music <http://www.rdio.com/people/smtudor>`_
 -  Watching and contributing to Open Source Software
 
- ©2012 `Stephen Tudor <http://s17r.com/resume>`_. All rights reserved.
+ ©2013 `Stephen Tudor <http://s17r.com/resume>`_. All rights reserved.
 Direct contact only desired (no recruiters please).

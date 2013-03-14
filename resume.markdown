@@ -199,4 +199,4 @@ Interests
 <br>
 <br>
 <br>
-©2012 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
+©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
