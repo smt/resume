@@ -4,11 +4,11 @@ Stephen Tudor
 Front-end Web Developer
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-* On Twitter as http://twitter.com/tudorstudio[@tudorstudio]
-* On GitHub as http://github.com/smt[smt]
-* Blogging at http://stephentudor.com[stephentudor.com]
-* Answering calls at tel://610-590-4484[610-590-4484]
-* Returning emails at mailto://s@stephentudor.com[s@stephentudor.com]
+* Phone: tel://610-590-4484[610-590-4484]
+* Email: mailto://smt@stephentudor.com[smt@stephentudor.com]
+* Blog: http://stephentudor.com[stephentudor.com]
+* Github: http://github.com/smt[smt]
+* Twitter: http://twitter.com/tudorstudio[@tudorstudio]
 
 Summary
 ~~~~~~~
@@ -33,12 +33,24 @@ and frameworks.
 Experience
 ~~~~~~~~~~
 
+*Senior Software Engineer* at http://epam.com/empathylab[EPAM Empathy
+Lab]
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+_December 2012 - Present_
+
+Championing a more collaborative process for responsive web design
+between the UX and development disciplines. Curating an internal static
+web framework and responsive pattern library to be used on multiple
+projects. Leading development on responsive prototypes for NBC
+Universal, DIRECTV, AIG, Lionsgate, and the USA Network.
+
 *Senior Web Developer* at http://empathylab.com[Empathy Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-_April 2010 - Present_
+_April 2010 - December 2012_
 
-Creating front-end web applications on tight deadlines for marquee
+Created front-end web applications on tight deadlines for marquee
 clientele. Responsible for estimating work, vetting UX designs prior to
 development, developing key features, assisting team members on
 challenging sections of code, performing code reviews, and coordinating
@@ -49,7 +61,7 @@ releases.
 
 _April 2009 - April 2010_ (1 year 1 month)
 
-Authoring standards-based HTML, CSS, and JavaScript for websites
+Authored standards-based HTML, CSS, and JavaScript for websites
 representing a broad range of internationally recognized brands: Sesame
 Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st
 Century Insurance, Liberty Global, American Red Cross.
@@ -95,8 +107,6 @@ my daily work are denoted with a ^†^ symbol.
 Programming Languages
 ^^^^^^^^^^^^^^^^^^^^^
 
-* http://haskell.org[Haskell]
-* http://java.com[Java]
 * http://developer.mozilla.org/en/JavaScript[JavaScript]^†^
 * http://php.net[PHP]
 * http://python.org[Python]
@@ -107,17 +117,19 @@ Markup/Templating Languages & Preprocessors
 
 * http://coffeescript.org[CoffeeScript]
 * http://www.w3.org/Style/CSS/Overview.en.html[CSS]^†^
+* http://linkedin.github.com/dustjs[Dust.js]
 * http://en.wikipedia.org/wiki/ERuby[ERB/eRuby]
 * http://haml.info[Haml]
 * http://handlebarsjs.com[Handlebars.js]
 * http://developers.whatwg.org[HTML]^†^
 * http://jade-lang.com[Jade]
+* http://www.oracle.com/technetwork/java/javaee/jsp[JSP]
 * http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html[JSTL]^†^
 * http://lesscss.org[LESS]^†^
 * http://liquidmarkup.org[Liquid]
 * http://daringfireball.net/projects/markdown[Markdown]^†^
 * http://mustache.github.com[Mustache]
-* http://sass-lang.com[SASS]^†^
+* http://sass-lang.com[Sass]^†^
 * http://smarty.net[Smarty]
 * http://learnboost.github.com/stylus[Stylus]
 
@@ -125,6 +137,8 @@ Frameworks & APIs
 ^^^^^^^^^^^^^^^^^
 
 * http://documentcloud.github.com/backbone[Backbone.js]^†^
+* http://twitter.github.com/bower[Bower]
+* http://busterjs.org[Buster.js]
 * http://compass-style.org[Compass]^†^
 * http://codeigniter.com[CodeIgniter]
 * http://www.djangoproject.com[Django]
@@ -133,6 +147,7 @@ Frameworks & APIs
 * http://developers.gigya.com[Gigya]
 * http://developers.google.com/maps[Google Maps API]
 * http://jquery.com[jQuery]^†^
+* http://meteor.com[Meteor]
 * http://middlemanapp.com[Middleman]
 * http://nodejs.org[Node.js]
 * http://prototypejs.org[Prototype.js]
@@ -143,16 +158,6 @@ Frameworks & APIs
 * http://wordpress.org[Wordpress]
 * http://developer.yahoo.com/yui[YUI]
 
-Standards, Patterns & Practices
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* Modern Web Standardsfootnote:[As specified/recommended by the
-http://w3c.org[W3C] and http://whatwg.org[WHAT-WG] bodies]
-* Software design patternsfootnote:[Examples: Singleton, Module,
-Factory, Observer/Mediator, MVC/MVVM]
-* TDD/BDDfootnote:[Test-Driven Development & Behavior-Driven
-Development]
-
 Software & Tools
 ^^^^^^^^^^^^^^^^
 
@@ -161,19 +166,21 @@ Suite]^†^
 * http://aws.amazon.com[Amazon Web Services]
 * http://apache.org[Apache]^†^
 * http://developer.apple.com[Apple XCode]
-* http://atlassian.com/software/jira[Atlassian JIRA]^†^
 * http://demandware.com[Demandware]
 * http://git-scm.com[Git]^†^
+* http://gruntjs.com[Grunt]
 * http://jboss.org[JBoss]
+* http://atlassian.com/software/jira[JIRA]^†^
 * http://apple.com/macosx[Mac OS X]^†^
 * http://mongodb.org[MongoDB]
 * http://mysql.com[MySQL]
 * http://wiki.nginx.org[Nginx]
 * http://www.oracle.com/us/products/applications/web-commerce/atg[Oracle
 ATG]
-* http://johnmacfarlane.net/pandoc[Pandoc]^†^
+* http://johnmacfarlane.net/pandoc[Pandoc]
 * http://postgresql.org[PostgreSQL]
 * http://rvm.beginrescueend.com[rvm]^†^
+* http://www.sublimetext.com[Sublime Text]
 * http://svn.apache.org[Subversion]
 * http://tmux.sourceforge.net[tmux]^†^
 * http://tomcat.apache.com[Tomcat]
@@ -181,6 +188,7 @@ ATG]
 * http://vagrantup.com[Vagrant]
 * http://www.vim.org[Vim]^†^
 * http://virtualbox.org[VirtualBox]
+* http://yeoman.io[Yeoman]
 * http://www.zsh.org[zsh]^†^
 
 Education
@@ -201,7 +209,7 @@ Interests
 
 * Being a dad and spending time with my family
 * Playing http://boardgamegeek.com/user/smtudor[board and card games]
-(and video games)
+(and video games, too)
 * Making and listening to http://www.rdio.com/people/smtudor[music]
 * Watching and contributing to Open Source Software
 

@@ -4,12 +4,11 @@ Stephen Tudor
 Front-end Web Developer
 -----------------------
 
--  On Twitter as `@tudorstudio <http://twitter.com/tudorstudio>`_
--  On GitHub as `smt <http://github.com/smt>`_
--  Blogging at `stephentudor.com <http://stephentudor.com>`_
--  Answering calls at `610-590-4484 <tel://610-590-4484>`_
--  Returning emails at
-   `s@stephentudor.com <mailto://s@stephentudor.com>`_
+-  Phone: `610-590-4484 <tel://610-590-4484>`_
+-  Email: `smt@stephentudor.com <mailto://smt@stephentudor.com>`_
+-  Blog: `stephentudor.com <http://stephentudor.com>`_
+-  Github: `smt <http://github.com/smt>`_
+-  Twitter: `@tudorstudio <http://twitter.com/tudorstudio>`_
 
 Summary
 -------
@@ -34,12 +33,23 @@ and frameworks.
 Experience
 ----------
 
+**Senior Software Engineer** at `EPAM Empathy Lab <http://epam.com/empathylab>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*December 2012 - Present*
+
+Championing a more collaborative process for responsive web design
+between the UX and development disciplines. Curating an internal static
+web framework and responsive pattern library to be used on multiple
+projects. Leading development on responsive prototypes for NBC
+Universal, DIRECTV, AIG, Lionsgate, and the USA Network.
+
 **Senior Web Developer** at `Empathy Lab <http://empathylab.com>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*April 2010 - Present*
+*April 2010 - December 2012*
 
-Creating front-end web applications on tight deadlines for marquee
+Created front-end web applications on tight deadlines for marquee
 clientele. Responsible for estimating work, vetting UX designs prior to
 development, developing key features, assisting team members on
 challenging sections of code, performing code reviews, and coordinating
@@ -50,7 +60,7 @@ releases.
 
 *April 2009 - April 2010* (1 year 1 month)
 
-Authoring standards-based HTML, CSS, and JavaScript for websites
+Authored standards-based HTML, CSS, and JavaScript for websites
 representing a broad range of internationally recognized brands: Sesame
 Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st
 Century Insurance, Liberty Global, American Red Cross.
@@ -95,8 +105,6 @@ my daily work are denoted with a :sup:`†` symbol.
 Programming Languages
 ~~~~~~~~~~~~~~~~~~~~~
 
--  `Haskell <http://haskell.org>`_
--  `Java <http://java.com>`_
 -  `JavaScript <http://developer.mozilla.org/en/JavaScript>`_\ :sup:`†`
 -  `PHP <http://php.net>`_
 -  `Python <http://python.org>`_
@@ -107,17 +115,19 @@ Markup/Templating Languages & Preprocessors
 
 -  `CoffeeScript <http://coffeescript.org>`_
 -  `CSS <http://www.w3.org/Style/CSS/Overview.en.html>`_\ :sup:`†`
+-  `Dust.js <http://linkedin.github.com/dustjs>`_
 -  `ERB/eRuby <http://en.wikipedia.org/wiki/ERuby>`_
 -  `Haml <http://haml.info>`_
 -  `Handlebars.js <http://handlebarsjs.com>`_
 -  `HTML <http://developers.whatwg.org>`_\ :sup:`†`
 -  `Jade <http://jade-lang.com>`_
+-  `JSP <http://www.oracle.com/technetwork/java/javaee/jsp>`_
 -  `JSTL <http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html>`_\ :sup:`†`
 -  `LESS <http://lesscss.org>`_\ :sup:`†`
 -  `Liquid <http://liquidmarkup.org>`_
 -  `Markdown <http://daringfireball.net/projects/markdown>`_\ :sup:`†`
 -  `Mustache <http://mustache.github.com>`_
--  `SASS <http://sass-lang.com>`_\ :sup:`†`
+-  `Sass <http://sass-lang.com>`_\ :sup:`†`
 -  `Smarty <http://smarty.net>`_
 -  `Stylus <http://learnboost.github.com/stylus>`_
 
@@ -125,6 +135,8 @@ Frameworks & APIs
 ~~~~~~~~~~~~~~~~~
 
 -  `Backbone.js <http://documentcloud.github.com/backbone>`_\ :sup:`†`
+-  `Bower <http://twitter.github.com/bower>`_
+-  `Buster.js <http://busterjs.org>`_
 -  `Compass <http://compass-style.org>`_\ :sup:`†`
 -  `CodeIgniter <http://codeigniter.com>`_
 -  `Django <http://www.djangoproject.com>`_
@@ -133,6 +145,7 @@ Frameworks & APIs
 -  `Gigya <http://developers.gigya.com>`_
 -  `Google Maps API <http://developers.google.com/maps>`_
 -  `jQuery <http://jquery.com>`_\ :sup:`†`
+-  `Meteor <http://meteor.com>`_
 -  `Middleman <http://middlemanapp.com>`_
 -  `Node.js <http://nodejs.org>`_
 -  `Prototype.js <http://prototypejs.org>`_
@@ -143,13 +156,6 @@ Frameworks & APIs
 -  `Wordpress <http://wordpress.org>`_
 -  `YUI <http://developer.yahoo.com/yui>`_
 
-Standards, Patterns & Practices
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  Modern Web Standards [1]_
--  Software design patterns [2]_
--  TDD/BDD [3]_
-
 Software & Tools
 ~~~~~~~~~~~~~~~~
 
@@ -158,19 +164,21 @@ Software & Tools
 -  `Amazon Web Services <http://aws.amazon.com>`_
 -  `Apache <http://apache.org>`_\ :sup:`†`
 -  `Apple XCode <http://developer.apple.com>`_
--  `Atlassian JIRA <http://atlassian.com/software/jira>`_\ :sup:`†`
 -  `Demandware <http://demandware.com>`_
 -  `Git <http://git-scm.com>`_\ :sup:`†`
+-  `Grunt <http://gruntjs.com>`_
 -  `JBoss <http://jboss.org>`_
+-  `JIRA <http://atlassian.com/software/jira>`_\ :sup:`†`
 -  `Mac OS X <http://apple.com/macosx>`_\ :sup:`†`
 -  `MongoDB <http://mongodb.org>`_
 -  `MySQL <http://mysql.com>`_
 -  `Nginx <http://wiki.nginx.org>`_
 -  `Oracle
    ATG <http://www.oracle.com/us/products/applications/web-commerce/atg>`_
--  `Pandoc <http://johnmacfarlane.net/pandoc>`_\ :sup:`†`
+-  `Pandoc <http://johnmacfarlane.net/pandoc>`_
 -  `PostgreSQL <http://postgresql.org>`_
 -  `rvm <http://rvm.beginrescueend.com>`_\ :sup:`†`
+-  `Sublime Text <http://www.sublimetext.com>`_
 -  `Subversion <http://svn.apache.org>`_
 -  `tmux <http://tmux.sourceforge.net>`_\ :sup:`†`
 -  `Tomcat <http://tomcat.apache.com>`_
@@ -178,6 +186,7 @@ Software & Tools
 -  `Vagrant <http://vagrantup.com>`_
 -  `Vim <http://www.vim.org>`_\ :sup:`†`
 -  `VirtualBox <http://virtualbox.org>`_
+-  `Yeoman <http://yeoman.io>`_
 -  `zsh <http://www.zsh.org>`_\ :sup:`†`
 
 Education
@@ -198,19 +207,10 @@ Interests
 
 -  Being a dad and spending time with my family
 -  Playing `board and card
-   games <http://boardgamegeek.com/user/smtudor>`_ (and video games)
+   games <http://boardgamegeek.com/user/smtudor>`_ (and video games,
+   too)
 -  Making and listening to `music <http://www.rdio.com/people/smtudor>`_
 -  Watching and contributing to Open Source Software
 
  ©2012 `Stephen Tudor <http://s17r.com/resume>`_. All rights reserved.
 Direct contact only desired (no recruiters please).
-
-.. [1]
-   As specified/recommended by the `W3C <http://w3c.org>`_ and
-   `WHAT-WG <http://whatwg.org>`_ bodies
-
-.. [2]
-   Examples: Singleton, Module, Factory, Observer/Mediator, MVC/MVVM
-
-.. [3]
-   Test-Driven Development & Behavior-Driven Development

@@ -12,31 +12,30 @@
     <itemizedlist>
       <listitem>
         <para>
-          On Twitter as
-          <ulink url="http://twitter.com/tudorstudio">@tudorstudio</ulink>
+          Phone: <ulink url="tel://610-590-4484">610-590-4484</ulink>
         </para>
       </listitem>
       <listitem>
         <para>
-          On GitHub as <ulink url="http://github.com/smt">smt</ulink>
+          Email: smt@stephentudor.com
+          (<email>//smt@stephentudor.com</email>)
         </para>
       </listitem>
       <listitem>
         <para>
-          Blogging at
+          Blog:
           <ulink url="http://stephentudor.com">stephentudor.com</ulink>
         </para>
       </listitem>
       <listitem>
         <para>
-          Answering calls at
-          <ulink url="tel://610-590-4484">610-590-4484</ulink>
+          Github: <ulink url="http://github.com/smt">smt</ulink>
         </para>
       </listitem>
       <listitem>
         <para>
-          Returning emails at s@stephentudor.com
-          (<email>//s@stephentudor.com</email>)
+          Twitter:
+          <ulink url="http://twitter.com/tudorstudio">@tudorstudio</ulink>
         </para>
       </listitem>
     </itemizedlist>
@@ -65,14 +64,30 @@
   </sect2>
   <sect2 id="experience">
     <title>Experience</title>
+    <sect3 id="senior-software-engineer-at-epam-empathy-lab">
+      <title><emphasis role="strong">Senior Software Engineer</emphasis>
+      at <ulink url="http://epam.com/empathylab">EPAM Empathy
+      Lab</ulink></title>
+      <para>
+        <emphasis>December 2012 - Present</emphasis>
+      </para>
+      <para>
+        Championing a more collaborative process for responsive web
+        design between the UX and development disciplines. Curating an
+        internal static web framework and responsive pattern library to
+        be used on multiple projects. Leading development on responsive
+        prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
+        USA Network.
+      </para>
+    </sect3>
     <sect3 id="senior-web-developer-at-empathy-lab">
       <title><emphasis role="strong">Senior Web Developer</emphasis> at
       <ulink url="http://empathylab.com">Empathy Lab</ulink></title>
       <para>
-        <emphasis>April 2010 - Present</emphasis>
+        <emphasis>April 2010 - December 2012</emphasis>
       </para>
       <para>
-        Creating front-end web applications on tight deadlines for
+        Created front-end web applications on tight deadlines for
         marquee clientele. Responsible for estimating work, vetting UX
         designs prior to development, developing key features, assisting
         team members on challenging sections of code, performing code
@@ -86,7 +101,7 @@
         <emphasis>April 2009 - April 2010</emphasis> (1 year 1 month)
       </para>
       <para>
-        Authoring standards-based HTML, CSS, and JavaScript for websites
+        Authored standards-based HTML, CSS, and JavaScript for websites
         representing a broad range of internationally recognized brands:
         Sesame Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon,
         Comcast, 21st Century Insurance, Liberty Global, American Red
@@ -149,16 +164,6 @@
       <itemizedlist>
         <listitem>
           <para>
-            <ulink url="http://haskell.org">Haskell</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            <ulink url="http://java.com">Java</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             <ulink url="http://developer.mozilla.org/en/JavaScript">JavaScript</ulink><superscript>†</superscript>
           </para>
         </listitem>
@@ -194,6 +199,11 @@
         </listitem>
         <listitem>
           <para>
+            <ulink url="http://linkedin.github.com/dustjs">Dust.js</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             <ulink url="http://en.wikipedia.org/wiki/ERuby">ERB/eRuby</ulink>
           </para>
         </listitem>
@@ -215,6 +225,11 @@
         <listitem>
           <para>
             <ulink url="http://jade-lang.com">Jade</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.oracle.com/technetwork/java/javaee/jsp">JSP</ulink>
           </para>
         </listitem>
         <listitem>
@@ -244,7 +259,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://sass-lang.com">SASS</ulink><superscript>†</superscript>
+            <ulink url="http://sass-lang.com">Sass</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -265,6 +280,16 @@
         <listitem>
           <para>
             <ulink url="http://documentcloud.github.com/backbone">Backbone.js</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://twitter.github.com/bower">Bower</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://busterjs.org">Buster.js</ulink>
           </para>
         </listitem>
         <listitem>
@@ -307,6 +332,11 @@
         <listitem>
           <para>
             <ulink url="http://jquery.com">jQuery</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://meteor.com">Meteor</ulink>
           </para>
         </listitem>
         <listitem>
@@ -356,42 +386,6 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="standards-patterns-practices">
-      <title>Standards, Patterns &amp; Practices</title>
-      <itemizedlist>
-        <listitem>
-          <para>
-            Modern Web Standards<footnote>
-              <para>
-                As specified/recommended by the
-                <ulink url="http://w3c.org">W3C</ulink> and
-                <ulink url="http://whatwg.org">WHAT-WG</ulink> bodies
-              </para>
-            </footnote>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Software design patterns<footnote>
-              <para>
-                Examples: Singleton, Module, Factory, Observer/Mediator,
-                MVC/MVVM
-              </para>
-            </footnote>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            TDD/BDD<footnote>
-              <para>
-                Test-Driven Development &amp; Behavior-Driven
-                Development
-              </para>
-            </footnote>
-          </para>
-        </listitem>
-      </itemizedlist>
-    </sect3>
     <sect3 id="software-tools">
       <title>Software &amp; Tools</title>
       <itemizedlist>
@@ -419,12 +413,6 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://atlassian.com/software/jira">Atlassian
-            JIRA</ulink><superscript>†</superscript>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             <ulink url="http://demandware.com">Demandware</ulink>
           </para>
         </listitem>
@@ -435,7 +423,17 @@
         </listitem>
         <listitem>
           <para>
+            <ulink url="http://gruntjs.com">Grunt</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             <ulink url="http://jboss.org">JBoss</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://atlassian.com/software/jira">JIRA</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -467,7 +465,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://johnmacfarlane.net/pandoc">Pandoc</ulink><superscript>†</superscript>
+            <ulink url="http://johnmacfarlane.net/pandoc">Pandoc</ulink>
           </para>
         </listitem>
         <listitem>
@@ -478,6 +476,11 @@
         <listitem>
           <para>
             <ulink url="http://rvm.beginrescueend.com">rvm</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://www.sublimetext.com">Sublime Text</ulink>
           </para>
         </listitem>
         <listitem>
@@ -517,6 +520,11 @@
         </listitem>
         <listitem>
           <para>
+            <ulink url="http://yeoman.io">Yeoman</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             <ulink url="http://www.zsh.org">zsh</ulink><superscript>†</superscript>
           </para>
         </listitem>
@@ -552,7 +560,7 @@
         <para>
           Playing
           <ulink url="http://boardgamegeek.com/user/smtudor">board and
-          card games</ulink> (and video games)
+          card games</ulink> (and video games, too)
         </para>
       </listitem>
       <listitem>

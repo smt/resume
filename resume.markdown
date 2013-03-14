@@ -4,11 +4,12 @@ Stephen Tudor
 Front-end Web Developer
 -----------------------
 
-- On Twitter as [@tudorstudio](http://twitter.com/tudorstudio)
-- On GitHub as [smt](http://github.com/smt)
-- Blogging at [stephentudor.com](http://stephentudor.com)
-- Answering calls at [610-590-4484](tel://610-590-4484)
-- Returning emails at [s@stephentudor.com](mailto://s@stephentudor.com)
+- Phone: [610-590-4484](tel://610-590-4484)
+- Email: [smt@stephentudor.com](mailto://smt@stephentudor.com)
+- Blog: [stephentudor.com](http://stephentudor.com)
+- Github: [smt](http://github.com/smt)
+- Twitter: [@tudorstudio](http://twitter.com/tudorstudio)
+
 
 Summary
 -------
@@ -29,14 +30,25 @@ white papers and API documentation. Experienced in the black art of software
 estimation, particularly as it pertains to the client side. Offers a strong
 background in many diverse web technologies and frameworks.
 
+
 Experience
 ----------
 
+### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
+
+*December 2012 - Present*
+
+Championing a more collaborative process for responsive web design between the
+UX and development disciplines. Curating an internal static web framework and
+responsive pattern library to be used on multiple projects. Leading development
+on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
+USA Network.
+
 ### **Senior Web Developer** at [Empathy Lab](http://empathylab.com)
 
-*April 2010 - Present*
+*April 2010 - December 2012*
 
-Creating front-end web applications on tight deadlines for marquee clientele.
+Created front-end web applications on tight deadlines for marquee clientele.
 Responsible for estimating work, vetting UX designs prior to development,
 developing key features, assisting team members on challenging sections of
 code, performing code reviews, and coordinating releases.
@@ -45,7 +57,7 @@ code, performing code reviews, and coordinating releases.
 
 *April 2009 - April 2010* (1 year 1 month)
 
-Authoring standards-based HTML, CSS, and JavaScript for websites representing
+Authored standards-based HTML, CSS, and JavaScript for websites representing
 a broad range of internationally recognized brands: Sesame Street, Sprout,
 Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st Century Insurance,
 Liberty Global, American Red Cross.
@@ -75,6 +87,7 @@ Performed Unix system administration duties for an internal R&D project's data
 center. Configured and managed a cluster of web servers through the duration of
 the project. Company ceased operations in early 2002.
 
+
 Skills & Expertise
 ------------------
 
@@ -84,8 +97,6 @@ denoted with a ^†^ symbol.
 
 ### Programming Languages
 
-- [Haskell](http://haskell.org)
-- [Java](http://java.com)
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
 - [Python](http://python.org)
@@ -95,23 +106,27 @@ denoted with a ^†^ symbol.
 
 - [CoffeeScript](http://coffeescript.org)
 - [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
+- [Dust.js](http://linkedin.github.com/dustjs)
 - [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
 - [Haml](http://haml.info)
 - [Handlebars.js](http://handlebarsjs.com)
 - [HTML](http://developers.whatwg.org)^†^
 - [Jade](http://jade-lang.com)
+- [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
 - [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)^†^
 - [LESS](http://lesscss.org)^†^
 - [Liquid](http://liquidmarkup.org)
 - [Markdown](http://daringfireball.net/projects/markdown)^†^
 - [Mustache](http://mustache.github.com)
-- [SASS](http://sass-lang.com)^†^
+- [Sass](http://sass-lang.com)^†^
 - [Smarty](http://smarty.net)
 - [Stylus](http://learnboost.github.com/stylus)
 
 ### Frameworks & APIs
 
 - [Backbone.js](http://documentcloud.github.com/backbone)^†^
+- [Bower](http://twitter.github.com/bower)
+- [Buster.js](http://busterjs.org)
 - [Compass](http://compass-style.org)^†^
 - [CodeIgniter](http://codeigniter.com)
 - [Django](http://www.djangoproject.com)
@@ -120,6 +135,7 @@ denoted with a ^†^ symbol.
 - [Gigya](http://developers.gigya.com)
 - [Google Maps API](http://developers.google.com/maps)
 - [jQuery](http://jquery.com)^†^
+- [Meteor](http://meteor.com)
 - [Middleman](http://middlemanapp.com)
 - [Node.js](http://nodejs.org)
 - [Prototype.js](http://prototypejs.org)
@@ -130,30 +146,26 @@ denoted with a ^†^ symbol.
 - [Wordpress](http://wordpress.org)
 - [YUI](http://developer.yahoo.com/yui)
 
-### Standards, Patterns & Practices
-
-- Modern Web Standards^[As specified/recommended by the [W3C](http://w3c.org) and [WHAT-WG](http://whatwg.org) bodies]
-- Software design patterns^[Examples: Singleton, Module, Factory, Observer/Mediator, MVC/MVVM]
-- TDD/BDD^[Test-Driven Development & Behavior-Driven Development]
-
 ### Software & Tools
 
 - [Adobe Creative Suite](http://www.adobe.com/products/creativesuite.html)^†^
 - [Amazon Web Services](http://aws.amazon.com)
 - [Apache](http://apache.org)^†^
 - [Apple XCode](http://developer.apple.com)
-- [Atlassian JIRA](http://atlassian.com/software/jira)^†^
 - [Demandware](http://demandware.com)
 - [Git](http://git-scm.com)^†^
+- [Grunt](http://gruntjs.com)
 - [JBoss](http://jboss.org)
+- [JIRA](http://atlassian.com/software/jira)^†^
 - [Mac OS X](http://apple.com/macosx)^†^
 - [MongoDB](http://mongodb.org)
 - [MySQL](http://mysql.com)
 - [Nginx](http://wiki.nginx.org)
 - [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
-- [Pandoc](http://johnmacfarlane.net/pandoc)^†^
+- [Pandoc](http://johnmacfarlane.net/pandoc)
 - [PostgreSQL](http://postgresql.org)
 - [rvm](http://rvm.beginrescueend.com)^†^
+- [Sublime Text](http://www.sublimetext.com)
 - [Subversion](http://svn.apache.org)
 - [tmux](http://tmux.sourceforge.net)^†^
 - [Tomcat](http://tomcat.apache.com)
@@ -161,6 +173,7 @@ denoted with a ^†^ symbol.
 - [Vagrant](http://vagrantup.com)
 - [Vim](http://www.vim.org)^†^
 - [VirtualBox](http://virtualbox.org)
+- [Yeoman](http://yeoman.io)
 - [zsh](http://www.zsh.org)^†^
 
 Education
@@ -179,7 +192,7 @@ Interests
 ---------
 
 - Being a dad and spending time with my family
-- Playing [board and card games](http://boardgamegeek.com/user/smtudor) (and video games)
+- Playing [board and card games](http://boardgamegeek.com/user/smtudor) (and video games, too)
 - Making and listening to [music](http://www.rdio.com/people/smtudor)
 - Watching and contributing to Open Source Software
 
