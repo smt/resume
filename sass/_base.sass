@@ -29,14 +29,16 @@ h1
   margin: 0
   padding: 0.25em 0 0.92em
   border-top: none
+  +transform-origin(100% 100%)
+  +transition(all 400ms ease-in-out)
   &.active
     +rotateZ(-5deg)
-    +text-shadow(1px 1px 0px white, 2px 2px 0px $link-color, 3px 3px 0px $link-color, 4px 4px 0px $link-color, 5px 5px 0px $link-color, 6px 6px 0px $link-color, 7px 7px 0px darken($link-color, 15%))
+    +text-shadow(1px 1px 0px white, 2px 2px 0px $link-color, 3px 3px 0px $link-color, 4px 4px 0px $link-color, 5px 5px 0px darken($link-color, 15%))
   +respond-to(medium-screen)
     padding-bottom: 0
     font-size: 425%
-    +transform-origin(100% 100%)
-    +transition(all 400ms ease-in-out)
+    &.active
+      +text-shadow(1px 1px 0px white, 2px 2px 0px $link-color, 3px 3px 0px $link-color, 4px 4px 0px $link-color, 5px 5px 0px $link-color, 6px 6px 0px $link-color, 7px 7px 0px darken($link-color, 15%))
   +respond-to(large-screen)
     float: left
     width: 57%
