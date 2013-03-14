@@ -34,18 +34,27 @@ h1 {
   padding: 0.25em 0 0.92em;
   border-top: none;
 }
+h1.active {
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  text-shadow: 1px 1px 0px white, 2px 2px 0px #bada55, 3px 3px 0px #bada55, 4px 4px 0px #bada55, 5px 5px 0px #bada55, 6px 6px 0px #bada55, 7px 7px 0px #97ba28;
+}
 @media only screen and (min-width: 640px) {
   h1 {
     padding-bottom: 0;
     font-size: 425%;
-    -webkit-transition: text-shadow 700ms linear;
-    -moz-transition: text-shadow 700ms linear;
-    -ms-transition: text-shadow 700ms linear;
-    -o-transition: text-shadow 700ms linear;
-    transition: text-shadow 700ms linear;
-  }
-  h1:hover {
-    text-shadow: 1px 1px 0px white, 2px 2px 0px #bada55, 3px 3px 0px #bada55, 4px 4px 0px #bada55, 5px 5px 0px #bada55, 6px 6px 0px #bada55, 7px 7px 0px #97ba28;
+    -webkit-transform-origin: 100% 100% 50%;
+    -moz-transform-origin: 100% 100% 50%;
+    -ms-transform-origin: 100% 100% 50%;
+    -o-transform-origin: 100% 100% 50%;
+    transform-origin: 100% 100% 50%;
+    -webkit-transition: all 400ms ease-in-out;
+    -moz-transition: all 400ms ease-in-out;
+    -o-transition: all 400ms ease-in-out;
+    transition: all 400ms ease-in-out;
   }
 }
 @media only screen and (min-width: 900px) {
@@ -111,7 +120,6 @@ a {
   text-decoration: none;
   -webkit-transition: background-color 500ms, border-bottom-color 500ms, color 500ms;
   -moz-transition: background-color 500ms, border-bottom-color 500ms, color 500ms;
-  -ms-transition: background-color 500ms, border-bottom-color 500ms, color 500ms;
   -o-transition: background-color 500ms, border-bottom-color 500ms, color 500ms;
   transition: background-color 500ms, border-bottom-color 500ms, color 500ms;
 }
@@ -386,6 +394,7 @@ sub {
     -webkit-columns: 17em 3;
     -moz-columns: 17em 3;
     -ms-columns: 17em 3;
+    -o-columns: 17em 3;
     columns: 17em 3;
   }
   .level3 ul li {
@@ -446,6 +455,17 @@ sub {
 #front-end-web-developer ul {
   margin-top: 0.2em;
   padding-left: 1.3em;
+}
+#front-end-web-developer li {
+  display: block;
+  font-size: 75%;
+  text-transform: uppercase;
+}
+#front-end-web-developer li a {
+  font-size: 133.3333%;
+  font-weight: bold;
+  margin-left: 0.5em;
+  text-transform: none;
 }
 
 @media only screen and (min-width: 900px) {

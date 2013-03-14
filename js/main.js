@@ -17,3 +17,20 @@
     d.addEventListener("gesturestart", gestureStart, false);
   }
 }(document));
+
+(function (w, d) {
+  w.addEventListener('load', function () {
+    var t = d.getElementById('front-end-web-developer');
+    var h = d.querySelectorAll('#stephen-tudor > h1')[0];
+    t.addEventListener('mouseover', function (e) {
+      if (!h.classList) return;
+      h.classList.add('active');
+      return false;
+    }, false);
+    t.addEventListener('mouseout', function (e) {
+      if (!h.classList) return;
+      h.classList.remove('active');
+      return false;
+    }, false);
+  }, false);
+}(window, document, undefined));
