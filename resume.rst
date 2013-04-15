@@ -100,56 +100,56 @@ Skills & Expertise
 
 These are languages, tools, and practices to which I have had exposure
 over the past 6 years or so. Those things which enjoy routine usage in
-my daily work are denoted with a :sup:`†` symbol.
+my daily work are denoted with a \ :sup:`†`\  symbol.
 
 Programming Languages
 ~~~~~~~~~~~~~~~~~~~~~
 
--  `JavaScript <http://developer.mozilla.org/en/JavaScript>`_\ :sup:`†`
+-  `JavaScript <http://developer.mozilla.org/en/JavaScript>`_\ :sup:`†`\ 
 -  `PHP <http://php.net>`_
 -  `Python <http://python.org>`_
--  `Ruby <http://ruby-lang.org>`_\ :sup:`†`
+-  `Ruby <http://ruby-lang.org>`_\ :sup:`†`\ 
 
 Markup/Templating Languages & Preprocessors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `CoffeeScript <http://coffeescript.org>`_
--  `CSS <http://www.w3.org/Style/CSS/Overview.en.html>`_\ :sup:`†`
+-  `CSS <http://www.w3.org/Style/CSS/Overview.en.html>`_\ :sup:`†`\ 
 -  `Dust.js <http://linkedin.github.com/dustjs>`_
 -  `ERB/eRuby <http://en.wikipedia.org/wiki/ERuby>`_
 -  `Haml <http://haml.info>`_
 -  `Handlebars.js <http://handlebarsjs.com>`_
--  `HTML <http://developers.whatwg.org>`_\ :sup:`†`
+-  `HTML <http://developers.whatwg.org>`_\ :sup:`†`\ 
 -  `Jade <http://jade-lang.com>`_
 -  `JSP <http://www.oracle.com/technetwork/java/javaee/jsp>`_
--  `JSTL <http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html>`_\ :sup:`†`
--  `LESS <http://lesscss.org>`_\ :sup:`†`
+-  `JSTL <http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html>`_\ :sup:`†`\ 
+-  `LESS <http://lesscss.org>`_\ :sup:`†`\ 
 -  `Liquid <http://liquidmarkup.org>`_
--  `Markdown <http://daringfireball.net/projects/markdown>`_\ :sup:`†`
+-  `Markdown <http://daringfireball.net/projects/markdown>`_\ :sup:`†`\ 
 -  `Mustache <http://mustache.github.com>`_
--  `Sass <http://sass-lang.com>`_\ :sup:`†`
+-  `Sass <http://sass-lang.com>`_\ :sup:`†`\ 
 -  `Smarty <http://smarty.net>`_
 -  `Stylus <http://learnboost.github.com/stylus>`_
 
 Frameworks & APIs
 ~~~~~~~~~~~~~~~~~
 
--  `Backbone.js <http://documentcloud.github.com/backbone>`_\ :sup:`†`
+-  `Backbone.js <http://documentcloud.github.com/backbone>`_\ :sup:`†`\ 
 -  `Bower <http://twitter.github.com/bower>`_
 -  `Buster.js <http://busterjs.org>`_
--  `Compass <http://compass-style.org>`_\ :sup:`†`
+-  `Compass <http://compass-style.org>`_\ :sup:`†`\ 
 -  `CodeIgniter <http://codeigniter.com>`_
 -  `Django <http://www.djangoproject.com>`_
 -  `Dojo <http://dojotoolkit.org>`_
 -  `FaceBook Open Graph <http://developers.facebook.com>`_
 -  `Gigya <http://developers.gigya.com>`_
 -  `Google Maps API <http://developers.google.com/maps>`_
--  `jQuery <http://jquery.com>`_\ :sup:`†`
+-  `jQuery <http://jquery.com>`_\ :sup:`†`\ 
 -  `Meteor <http://meteor.com>`_
 -  `Middleman <http://middlemanapp.com>`_
 -  `Node.js <http://nodejs.org>`_
 -  `Prototype.js <http://prototypejs.org>`_
--  `Require.js <http://requirejs.org>`_\ :sup:`†`
+-  `Require.js <http://requirejs.org>`_\ :sup:`†`\ 
 -  `Ruby on Rails <http://rubyonrails.org>`_
 -  `Sinatra <http://sinatrarb.com>`_
 -  `Twitter API <http://dev.twitter.com>`_
@@ -160,16 +160,16 @@ Software & Tools
 ~~~~~~~~~~~~~~~~
 
 -  `Adobe Creative
-   Suite <http://www.adobe.com/products/creativesuite.html>`_\ :sup:`†`
+   Suite <http://www.adobe.com/products/creativesuite.html>`_\ :sup:`†`\ 
 -  `Amazon Web Services <http://aws.amazon.com>`_
--  `Apache <http://apache.org>`_\ :sup:`†`
+-  `Apache <http://apache.org>`_\ :sup:`†`\ 
 -  `Apple XCode <http://developer.apple.com>`_
 -  `Demandware <http://demandware.com>`_
--  `Git <http://git-scm.com>`_\ :sup:`†`
+-  `Git <http://git-scm.com>`_\ :sup:`†`\ 
 -  `Grunt <http://gruntjs.com>`_
 -  `JBoss <http://jboss.org>`_
--  `JIRA <http://atlassian.com/software/jira>`_\ :sup:`†`
--  `Mac OS X <http://apple.com/macosx>`_\ :sup:`†`
+-  `JIRA <http://atlassian.com/software/jira>`_\ :sup:`†`\ 
+-  `Mac OS X <http://apple.com/macosx>`_\ :sup:`†`\ 
 -  `MongoDB <http://mongodb.org>`_
 -  `MySQL <http://mysql.com>`_
 -  `Nginx <http://wiki.nginx.org>`_
@@ -177,17 +177,17 @@ Software & Tools
    ATG <http://www.oracle.com/us/products/applications/web-commerce/atg>`_
 -  `Pandoc <http://johnmacfarlane.net/pandoc>`_
 -  `PostgreSQL <http://postgresql.org>`_
--  `rvm <http://rvm.beginrescueend.com>`_\ :sup:`†`
+-  `rvm <http://rvm.beginrescueend.com>`_\ :sup:`†`\ 
 -  `Sublime Text <http://www.sublimetext.com>`_
 -  `Subversion <http://svn.apache.org>`_
--  `tmux <http://tmux.sourceforge.net>`_\ :sup:`†`
+-  `tmux <http://tmux.sourceforge.net>`_\ :sup:`†`\ 
 -  `Tomcat <http://tomcat.apache.com>`_
 -  `Ubuntu Linux <http://ubuntu.com>`_
 -  `Vagrant <http://vagrantup.com>`_
--  `Vim <http://www.vim.org>`_\ :sup:`†`
+-  `Vim <http://www.vim.org>`_\ :sup:`†`\ 
 -  `VirtualBox <http://virtualbox.org>`_
 -  `Yeoman <http://yeoman.io>`_
--  `zsh <http://www.zsh.org>`_\ :sup:`†`
+-  `zsh <http://www.zsh.org>`_\ :sup:`†`\ 
 
 Education
 ---------
