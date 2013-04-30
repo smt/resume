@@ -8,7 +8,7 @@ Front-end Web Developer
 * Email: mailto://smt@stephentudor.com[smt@stephentudor.com]
 * Blog: http://stephentudor.com[stephentudor.com]
 * Github: http://github.com/smt[smt]
-* Twitter: http://twitter.com/tudorstudio[@tudorstudio]
+* Twitter: http://twitter.com/tagsoup[@tagsoup]
 
 Summary
 ~~~~~~~
