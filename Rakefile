@@ -97,13 +97,14 @@ namespace :docbook do
   end
 end
 
+desc "Copy resume to README"
 task :readme do
-  desc "Copy resume to README"
   puts "Copying README"
   system("cp resume.markdown README.markdown")
   puts "Done"
 end
 
+desc "Generate all formats"
 task :all => [
   "rst:generate",
   "html:generate",
