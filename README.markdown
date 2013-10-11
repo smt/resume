@@ -24,11 +24,11 @@ I am able to execute end-to-end on a product or project.
 Specialties
 -----------
 
-Authoring great user experiences with JavaScript, HTML, and CSS, the pillars of
-front-end development. Managing and mentoring junior web developers. Writing
-white papers and API documentation. Experienced in the black art of software
-estimation, particularly as it pertains to the client side. Offers a strong
-background in many diverse web technologies and frameworks.
+Authoring great user experiences with JavaScript, HTML, and CSS. Advocating for
+the open web. Managing and mentoring dev teams. Performing code reviews.
+Writing white papers and API documentation. Particating in the black art of
+software estimation. Drawing from a strong background in many diverse web
+technologies and frameworks.
 
 
 Experience
@@ -124,17 +124,19 @@ denoted with a ^†^ symbol.
 
 ### Frameworks & APIs
 
-- [Backbone.js](http://documentcloud.github.com/backbone)^†^
-- [Bower](http://twitter.github.com/bower)
+- [Backbone.js](http://backbonejs.org)^†^
+- [Bower](http://bower.io)
 - [Buster.js](http://busterjs.org)
 - [Compass](http://compass-style.org)^†^
 - [CodeIgniter](http://codeigniter.com)
 - [Django](http://www.djangoproject.com)
 - [Dojo](http://dojotoolkit.org)
+- [Express](http://expressjs.com)
 - [FaceBook Open Graph](http://developers.facebook.com)
 - [Gigya](http://developers.gigya.com)
 - [Google Maps API](http://developers.google.com/maps)
 - [jQuery](http://jquery.com)^†^
+- [Lodash](http://lodash.com)^†^
 - [Meteor](http://meteor.com)
 - [Middleman](http://middlemanapp.com)
 - [Node.js](http://nodejs.org)
@@ -143,6 +145,7 @@ denoted with a ^†^ symbol.
 - [Ruby on Rails](http://rubyonrails.org)
 - [Sinatra](http://sinatrarb.com)
 - [Twitter API](http://dev.twitter.com)
+- [Underscore.js](http://underscorejs.org)^†^
 - [Wordpress](http://wordpress.org)
 - [YUI](http://developer.yahoo.com/yui)
 
@@ -173,6 +176,7 @@ denoted with a ^†^ symbol.
 - [Vagrant](http://vagrantup.com)
 - [Vim](http://www.vim.org)^†^
 - [VirtualBox](http://virtualbox.org)
+- [WebStorm](http://jetbrains.com/webstorm)
 - [Yeoman](http://yeoman.io)
 - [zsh](http://www.zsh.org)^†^
 
@@ -199,4 +203,4 @@ Interests
 <br>
 <br>
 <br>
-©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
+©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters&nbsp;please).

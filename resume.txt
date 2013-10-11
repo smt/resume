@@ -23,12 +23,11 @@ product or project.
 Specialties
 ~~~~~~~~~~~
 
-Authoring great user experiences with JavaScript, HTML, and CSS, the
-pillars of front-end development. Managing and mentoring junior web
-developers. Writing white papers and API documentation. Experienced in
-the black art of software estimation, particularly as it pertains to the
-client side. Offers a strong background in many diverse web technologies
-and frameworks.
+Authoring great user experiences with JavaScript, HTML, and CSS.
+Advocating for the open web. Managing and mentoring dev teams.
+Performing code reviews. Writing white papers and API documentation.
+Particating in the black art of software estimation. Drawing from a
+strong background in many diverse web technologies and frameworks.
 
 Experience
 ~~~~~~~~~~
@@ -136,17 +135,19 @@ Markup/Templating Languages & Preprocessors
 Frameworks & APIs
 ^^^^^^^^^^^^^^^^^
 
-* http://documentcloud.github.com/backbone[Backbone.js]^†^
-* http://twitter.github.com/bower[Bower]
+* http://backbonejs.org[Backbone.js]^†^
+* http://bower.io[Bower]
 * http://busterjs.org[Buster.js]
 * http://compass-style.org[Compass]^†^
 * http://codeigniter.com[CodeIgniter]
 * http://www.djangoproject.com[Django]
 * http://dojotoolkit.org[Dojo]
+* http://expressjs.com[Express]
 * http://developers.facebook.com[FaceBook Open Graph]
 * http://developers.gigya.com[Gigya]
 * http://developers.google.com/maps[Google Maps API]
 * http://jquery.com[jQuery]^†^
+* http://lodash.com[Lodash]^†^
 * http://meteor.com[Meteor]
 * http://middlemanapp.com[Middleman]
 * http://nodejs.org[Node.js]
@@ -155,6 +156,7 @@ Frameworks & APIs
 * http://rubyonrails.org[Ruby on Rails]
 * http://sinatrarb.com[Sinatra]
 * http://dev.twitter.com[Twitter API]
+* http://underscorejs.org[Underscore.js]^†^
 * http://wordpress.org[Wordpress]
 * http://developer.yahoo.com/yui[YUI]
 
@@ -188,6 +190,7 @@ ATG]
 * http://vagrantup.com[Vagrant]
 * http://www.vim.org[Vim]^†^
 * http://virtualbox.org[VirtualBox]
+* http://jetbrains.com/webstorm[WebStorm]
 * http://yeoman.io[Yeoman]
 * http://www.zsh.org[zsh]^†^
 
@@ -214,4 +217,4 @@ Interests
 * Watching and contributing to Open Source Software
 
  ©2013 http://s17r.com/resume[Stephen Tudor]. All rights reserved.
-Direct contact only desired (no recruiters please).
+Direct contact only desired (no recruiters please).

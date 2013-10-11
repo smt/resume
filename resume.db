@@ -54,12 +54,12 @@
   <sect2 id="specialties">
     <title>Specialties</title>
     <para>
-      Authoring great user experiences with JavaScript, HTML, and CSS,
-      the pillars of front-end development. Managing and mentoring
-      junior web developers. Writing white papers and API documentation.
-      Experienced in the black art of software estimation, particularly
-      as it pertains to the client side. Offers a strong background in
-      many diverse web technologies and frameworks.
+      Authoring great user experiences with JavaScript, HTML, and CSS.
+      Advocating for the open web. Managing and mentoring dev teams.
+      Performing code reviews. Writing white papers and API
+      documentation. Particating in the black art of software
+      estimation. Drawing from a strong background in many diverse web
+      technologies and frameworks.
     </para>
   </sect2>
   <sect2 id="experience">
@@ -279,12 +279,12 @@
       <itemizedlist>
         <listitem>
           <para>
-            <ulink url="http://documentcloud.github.com/backbone">Backbone.js</ulink><superscript>†</superscript>
+            <ulink url="http://backbonejs.org">Backbone.js</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://twitter.github.com/bower">Bower</ulink>
+            <ulink url="http://bower.io">Bower</ulink>
           </para>
         </listitem>
         <listitem>
@@ -314,6 +314,11 @@
         </listitem>
         <listitem>
           <para>
+            <ulink url="http://expressjs.com">Express</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             <ulink url="http://developers.facebook.com">FaceBook Open
             Graph</ulink>
           </para>
@@ -332,6 +337,11 @@
         <listitem>
           <para>
             <ulink url="http://jquery.com">jQuery</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://lodash.com">Lodash</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -372,6 +382,11 @@
         <listitem>
           <para>
             <ulink url="http://dev.twitter.com">Twitter API</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://underscorejs.org">Underscore.js</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -520,6 +535,11 @@
         </listitem>
         <listitem>
           <para>
+            <ulink url="http://jetbrains.com/webstorm">WebStorm</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             <ulink url="http://yeoman.io">Yeoman</ulink>
           </para>
         </listitem>
@@ -578,7 +598,7 @@
     <para>
       <br> <br> <br> ©2013 <ulink url="http://s17r.com/resume">Stephen
       Tudor</ulink>. All rights reserved. Direct contact only desired
-      (no recruiters please).
+      (no recruiters please).
     </para>
   </sect2>
 </sect1>

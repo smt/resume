@@ -23,12 +23,11 @@ product or project.
 Specialties
 -----------
 
-Authoring great user experiences with JavaScript, HTML, and CSS, the
-pillars of front-end development. Managing and mentoring junior web
-developers. Writing white papers and API documentation. Experienced in
-the black art of software estimation, particularly as it pertains to the
-client side. Offers a strong background in many diverse web technologies
-and frameworks.
+Authoring great user experiences with JavaScript, HTML, and CSS.
+Advocating for the open web. Managing and mentoring dev teams.
+Performing code reviews. Writing white papers and API documentation.
+Particating in the black art of software estimation. Drawing from a
+strong background in many diverse web technologies and frameworks.
 
 Experience
 ----------
@@ -134,17 +133,19 @@ Markup/Templating Languages & Preprocessors
 Frameworks & APIs
 ~~~~~~~~~~~~~~~~~
 
--  `Backbone.js <http://documentcloud.github.com/backbone>`_\ :sup:`†`
--  `Bower <http://twitter.github.com/bower>`_
+-  `Backbone.js <http://backbonejs.org>`_\ :sup:`†`
+-  `Bower <http://bower.io>`_
 -  `Buster.js <http://busterjs.org>`_
 -  `Compass <http://compass-style.org>`_\ :sup:`†`
 -  `CodeIgniter <http://codeigniter.com>`_
 -  `Django <http://www.djangoproject.com>`_
 -  `Dojo <http://dojotoolkit.org>`_
+-  `Express <http://expressjs.com>`_
 -  `FaceBook Open Graph <http://developers.facebook.com>`_
 -  `Gigya <http://developers.gigya.com>`_
 -  `Google Maps API <http://developers.google.com/maps>`_
 -  `jQuery <http://jquery.com>`_\ :sup:`†`
+-  `Lodash <http://lodash.com>`_\ :sup:`†`
 -  `Meteor <http://meteor.com>`_
 -  `Middleman <http://middlemanapp.com>`_
 -  `Node.js <http://nodejs.org>`_
@@ -153,6 +154,7 @@ Frameworks & APIs
 -  `Ruby on Rails <http://rubyonrails.org>`_
 -  `Sinatra <http://sinatrarb.com>`_
 -  `Twitter API <http://dev.twitter.com>`_
+-  `Underscore.js <http://underscorejs.org>`_\ :sup:`†`
 -  `Wordpress <http://wordpress.org>`_
 -  `YUI <http://developer.yahoo.com/yui>`_
 
@@ -186,6 +188,7 @@ Software & Tools
 -  `Vagrant <http://vagrantup.com>`_
 -  `Vim <http://www.vim.org>`_\ :sup:`†`
 -  `VirtualBox <http://virtualbox.org>`_
+-  `WebStorm <http://jetbrains.com/webstorm>`_
 -  `Yeoman <http://yeoman.io>`_
 -  `zsh <http://www.zsh.org>`_\ :sup:`†`
 
@@ -213,4 +216,4 @@ Interests
 -  Watching and contributing to Open Source Software
 
  ©2013 `Stephen Tudor <http://s17r.com/resume>`_. All rights reserved.
-Direct contact only desired (no recruiters please).
+Direct contact only desired (no recruiters please).
