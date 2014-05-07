@@ -55,7 +55,7 @@ with content authored in a WordPress blog.
 Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-_December 2012 - November 2013_
+_December 2012 - November 2013_ (1 year)
 
 Championed a more collaborative process for responsive web design
 between the UX and development disciplines. Curated an internal static
@@ -67,7 +67,7 @@ DIRECTV, AIG, Lionsgate, and the USA Network.
 *Senior Web Developer* at http://empathylab.com[Empathy Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-_April 2010 - December 2012_
+_April 2010 - December 2012_ (2 years 9 months)
 
 Created front-end web applications on tight deadlines for marquee
 clientele. Responsible for estimating work, vetting UX designs prior to

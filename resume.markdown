@@ -47,7 +47,7 @@ blog.
 
 ### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
 
-*December 2012 - November 2013*
+*December 2012 - November 2013* (1 year)
 
 Championed a more collaborative process for responsive web design between the
 UX and development disciplines. Curated an internal static web framework and
@@ -57,7 +57,7 @@ USA Network.
 
 ### **Senior Web Developer** at [Empathy Lab](http://empathylab.com)
 
-*April 2010 - December 2012*
+*April 2010 - December 2012* (2 years 9 months)
 
 Created front-end web applications on tight deadlines for marquee clientele.
 Responsible for estimating work, vetting UX designs prior to development,
