@@ -96,16 +96,6 @@ individuals and small businesses to Fortune 500 companies. Designing and
 developing hosted web applications with open source frameworks like Ruby
 on Rails. Integrating CMS and eCommerce applications.
 
-**Systems Engineer** at Lockheed Martin Global Telecommunications (defunct)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*May 2000 - January 2002* (1 year 9 months)
-
-Performed Unix system administration duties for an internal R&D
-project's data center. Configured and managed a cluster of web servers
-through the duration of the project. Company ceased operations in early
-2002.
-
 Skills & Expertise
 ------------------
 
