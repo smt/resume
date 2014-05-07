@@ -1,15 +1,18 @@
+[[stephen-tudor]]
 Stephen Tudor
 -------------
 
+[[front-end-web-developer]]
 Front-end Web Developer
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 * Phone: tel://610-590-4484[610-590-4484]
-* Email: mailto://smt@stephentudor.com[smt@stephentudor.com]
+* Email: smt@stephentudor.com
 * Blog: http://stephentudor.com[stephentudor.com]
 * Github: http://github.com/smt[smt]
 * Twitter: http://twitter.com/tagsoup[@tagsoup]
 
+[[summary]]
 Summary
 ~~~~~~~
 
@@ -20,6 +23,7 @@ being conversant in server-side engineering, visual/UX design, and
 project management practices, I am able to execute end-to-end on a
 product or project.
 
+[[specialties]]
 Specialties
 ~~~~~~~~~~~
 
@@ -29,21 +33,37 @@ Performing code reviews. Writing white papers and API documentation.
 Particating in the black art of software estimation. Drawing from a
 strong background in many diverse web technologies and frameworks.
 
+[[experience]]
 Experience
 ~~~~~~~~~~
 
+[[ux-developer-at-ebay-enterprise]]
+*UX Developer* at http://ebayenterprise.com[eBay Enterprise]
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+_November 2013 - Present_
+
+As a member of the Solution Innovations team, I am creating a RWD
+pattern library as the system of record and living style guide for the
+next version of the Magento reference store. I also support sales
+activities by building and deploying various tools and services, such as
+a third-party JavaScript app that enables users to annotate any website
+with content authored in a WordPress blog.
+
+[[senior-software-engineer-at-epam-empathy-lab]]
 *Senior Software Engineer* at http://epam.com/empathylab[EPAM Empathy
 Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-_December 2012 - Present_
+_December 2012 - November 2013_
 
-Championing a more collaborative process for responsive web design
-between the UX and development disciplines. Curating an internal static
+Championed a more collaborative process for responsive web design
+between the UX and development disciplines. Curated an internal static
 web framework and responsive pattern library to be used on multiple
-projects. Leading development on responsive prototypes for NBC
-Universal, DIRECTV, AIG, Lionsgate, and the USA Network.
+projects. Lead development on responsive prototypes for NBC Universal,
+DIRECTV, AIG, Lionsgate, and the USA Network.
 
+[[senior-web-developer-at-empathy-lab]]
 *Senior Web Developer* at http://empathylab.com[Empathy Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -55,6 +75,7 @@ development, developing key features, assisting team members on
 challenging sections of code, performing code reviews, and coordinating
 releases.
 
+[[web-developer-at-empathy-lab]]
 *Web Developer* at http://empathylab.com[Empathy Lab]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -65,6 +86,7 @@ representing a broad range of internationally recognized brands: Sesame
 Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st
 Century Insurance, Liberty Global, American Red Cross.
 
+[[it-director-at-artisan-custom-doorworks]]
 *IT Director* at http://artisandoorworks.com[Artisan Custom Doorworks]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -75,6 +97,7 @@ PDF docemunts. Developed in-house sales and management application in
 Rails, while supporting and customizing business systems and
 applications.
 
+[[president-at-tudor-studio]]
 *President* at http://tudorstudio.com[Tudor Studio]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -85,6 +108,7 @@ individuals and small businesses to Fortune 500 companies. Designing and
 developing hosted web applications with open source frameworks like Ruby
 on Rails. Integrating CMS and eCommerce applications.
 
+[[systems-engineer-at-lockheed-martin-global-telecommunications-defunct]]
 *Systems Engineer* at Lockheed Martin Global Telecommunications
 (defunct)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -96,6 +120,7 @@ project’s data center. Configured and managed a cluster of web servers
 through the duration of the project. Company ceased operations in early
 2002.
 
+[[skills-expertise]]
 Skills & Expertise
 ~~~~~~~~~~~~~~~~~~
 
@@ -103,55 +128,56 @@ These are languages, tools, and practices to which I have had exposure
 over the past 6 years or so. Those things which enjoy routine usage in
 my daily work are denoted with a ^†^ symbol.
 
+[[programming-languages]]
 Programming Languages
 ^^^^^^^^^^^^^^^^^^^^^
 
 * http://developer.mozilla.org/en/JavaScript[JavaScript]^†^
 * http://php.net[PHP]
-* http://python.org[Python]
 * http://ruby-lang.org[Ruby]^†^
 
+[[markuptemplating-languages-preprocessors]]
 Markup/Templating Languages & Preprocessors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * http://coffeescript.org[CoffeeScript]
 * http://www.w3.org/Style/CSS/Overview.en.html[CSS]^†^
-* http://linkedin.github.com/dustjs[Dust.js]
+* http://linkedin.github.io/dustjs[Dust.js]
 * http://en.wikipedia.org/wiki/ERuby[ERB/eRuby]
 * http://haml.info[Haml]
 * http://handlebarsjs.com[Handlebars.js]
 * http://developers.whatwg.org[HTML]^†^
 * http://jade-lang.com[Jade]
 * http://www.oracle.com/technetwork/java/javaee/jsp[JSP]
-* http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html[JSTL]^†^
+* http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html[JSTL]
 * http://lesscss.org[LESS]^†^
 * http://liquidmarkup.org[Liquid]
 * http://daringfireball.net/projects/markdown[Markdown]^†^
-* http://mustache.github.com[Mustache]
+* http://mustache.github.io[Mustache]
 * http://sass-lang.com[Sass]^†^
 * http://smarty.net[Smarty]
-* http://learnboost.github.com/stylus[Stylus]
+* http://paularmstrong.github.io/swig[Swig]
+* http://learnboost.github.io/stylus[Stylus]
 
+[[frameworks-apis]]
 Frameworks & APIs
 ^^^^^^^^^^^^^^^^^
 
 * http://backbonejs.org[Backbone.js]^†^
 * http://bower.io[Bower]
-* http://busterjs.org[Buster.js]
+* http://browserify.org[Browserify]^†^
 * http://compass-style.org[Compass]^†^
-* http://codeigniter.com[CodeIgniter]
 * http://www.djangoproject.com[Django]
-* http://dojotoolkit.org[Dojo]
-* http://expressjs.com[Express]
-* http://developers.facebook.com[FaceBook Open Graph]
-* http://developers.gigya.com[Gigya]
-* http://developers.google.com/maps[Google Maps API]
+* http://expressjs.com[Express]^†^
+* http://jasmine.github.io[Jasmine]
 * http://jquery.com[jQuery]^†^
+* http://krakenjs.com[krakenjs]
 * http://lodash.com[Lodash]^†^
 * http://meteor.com[Meteor]
 * http://middlemanapp.com[Middleman]
-* http://nodejs.org[Node.js]
+* http://nodejs.org[Node.js]^†^
 * http://prototypejs.org[Prototype.js]
+* http://facebook.github.io/react[React]
 * http://requirejs.org[Require.js]^†^
 * http://rubyonrails.org[Ruby on Rails]
 * http://sinatrarb.com[Sinatra]
@@ -160,6 +186,7 @@ Frameworks & APIs
 * http://wordpress.org[Wordpress]
 * http://developer.yahoo.com/yui[YUI]
 
+[[software-tools]]
 Software & Tools
 ^^^^^^^^^^^^^^^^
 
@@ -170,11 +197,13 @@ Suite]^†^
 * http://developer.apple.com[Apple XCode]
 * http://demandware.com[Demandware]
 * http://git-scm.com[Git]^†^
-* http://gruntjs.com[Grunt]
+* http://gruntjs.com[Grunt]^†^
+* http://gulpjs.com[Gulp]^†^
 * http://jboss.org[JBoss]
 * http://atlassian.com/software/jira[JIRA]^†^
 * http://apple.com/macosx[Mac OS X]^†^
-* http://mongodb.org[MongoDB]
+* http://magento.com[Magento]^†^
+* http://mongodb.org[MongoDB]^†^
 * http://mysql.com[MySQL]
 * http://wiki.nginx.org[Nginx]
 * http://www.oracle.com/us/products/applications/web-commerce/atg[Oracle
@@ -189,11 +218,12 @@ ATG]
 * http://ubuntu.com[Ubuntu Linux]
 * http://vagrantup.com[Vagrant]
 * http://www.vim.org[Vim]^†^
-* http://virtualbox.org[VirtualBox]
+* http://virtualbox.org[VirtualBox]^†^
 * http://jetbrains.com/webstorm[WebStorm]
 * http://yeoman.io[Yeoman]
 * http://www.zsh.org[zsh]^†^
 
+[[education]]
 Education
 ~~~~~~~~~
 
@@ -201,12 +231,14 @@ http://sju.edu[Saint Joseph’s University], Erivan K. Haub School of
 Business +
 BS, Information Systems, 1996 - 2000
 
+[[honors-and-awards]]
 Honors and Awards
 ~~~~~~~~~~~~~~~~~
 
 _Unsung Hero_, Empathy Lab, May 2011 +
 A peer-awarded honor which I’ll always be terribly proud to have won.
 
+[[interests]]
 Interests
 ~~~~~~~~~
 
@@ -216,5 +248,5 @@ Interests
 * Making and listening to http://www.rdio.com/people/smtudor[music]
 * Watching and contributing to Open Source Software
 
- ©2013 http://s17r.com/resume[Stephen Tudor]. All rights reserved.
-Direct contact only desired (no recruiters please).
+©2014 http://s17r.com/resume[Stephen Tudor]. All rights reserved. Direct
+contact only desired (no recruiters please).

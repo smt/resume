@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
-                  "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                  "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <article>
   <articleinfo>
     <title></title>
@@ -17,8 +17,7 @@
       </listitem>
       <listitem>
         <para>
-          Email: smt@stephentudor.com
-          (<email>//smt@stephentudor.com</email>)
+          Email: <email>smt@stephentudor.com</email>
         </para>
       </listitem>
       <listitem>
@@ -64,18 +63,35 @@
   </sect2>
   <sect2 id="experience">
     <title>Experience</title>
+    <sect3 id="ux-developer-at-ebay-enterprise">
+      <title><emphasis role="strong">UX Developer</emphasis> at
+      <ulink url="http://ebayenterprise.com">eBay
+      Enterprise</ulink></title>
+      <para>
+        <emphasis>November 2013 - Present</emphasis>
+      </para>
+      <para>
+        As a member of the Solution Innovations team, I am creating a
+        RWD pattern library as the system of record and living style
+        guide for the next version of the Magento reference store. I
+        also support sales activities by building and deploying various
+        tools and services, such as a third-party JavaScript app that
+        enables users to annotate any website with content authored in a
+        WordPress blog.
+      </para>
+    </sect3>
     <sect3 id="senior-software-engineer-at-epam-empathy-lab">
       <title><emphasis role="strong">Senior Software Engineer</emphasis>
       at <ulink url="http://epam.com/empathylab">EPAM Empathy
       Lab</ulink></title>
       <para>
-        <emphasis>December 2012 - Present</emphasis>
+        <emphasis>December 2012 - November 2013</emphasis>
       </para>
       <para>
-        Championing a more collaborative process for responsive web
-        design between the UX and development disciplines. Curating an
+        Championed a more collaborative process for responsive web
+        design between the UX and development disciplines. Curated an
         internal static web framework and responsive pattern library to
-        be used on multiple projects. Leading development on responsive
+        be used on multiple projects. Lead development on responsive
         prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
         USA Network.
       </para>
@@ -174,11 +190,6 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://python.org">Python</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             <ulink url="http://ruby-lang.org">Ruby</ulink><superscript>†</superscript>
           </para>
         </listitem>
@@ -199,7 +210,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://linkedin.github.com/dustjs">Dust.js</ulink>
+            <ulink url="http://linkedin.github.io/dustjs">Dust.js</ulink>
           </para>
         </listitem>
         <listitem>
@@ -234,7 +245,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html">JSTL</ulink><superscript>†</superscript>
+            <ulink url="http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html">JSTL</ulink>
           </para>
         </listitem>
         <listitem>
@@ -254,7 +265,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://mustache.github.com">Mustache</ulink>
+            <ulink url="http://mustache.github.io">Mustache</ulink>
           </para>
         </listitem>
         <listitem>
@@ -269,7 +280,12 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://learnboost.github.com/stylus">Stylus</ulink>
+            <ulink url="http://paularmstrong.github.io/swig">Swig</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://learnboost.github.io/stylus">Stylus</ulink>
           </para>
         </listitem>
       </itemizedlist>
@@ -289,7 +305,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://busterjs.org">Buster.js</ulink>
+            <ulink url="http://browserify.org">Browserify</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -299,44 +315,27 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://codeigniter.com">CodeIgniter</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             <ulink url="http://www.djangoproject.com">Django</ulink>
           </para>
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://dojotoolkit.org">Dojo</ulink>
+            <ulink url="http://expressjs.com">Express</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://expressjs.com">Express</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            <ulink url="http://developers.facebook.com">FaceBook Open
-            Graph</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            <ulink url="http://developers.gigya.com">Gigya</ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            <ulink url="http://developers.google.com/maps">Google Maps
-            API</ulink>
+            <ulink url="http://jasmine.github.io">Jasmine</ulink>
           </para>
         </listitem>
         <listitem>
           <para>
             <ulink url="http://jquery.com">jQuery</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://krakenjs.com">krakenjs</ulink>
           </para>
         </listitem>
         <listitem>
@@ -356,12 +355,17 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://nodejs.org">Node.js</ulink>
+            <ulink url="http://nodejs.org">Node.js</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
           <para>
             <ulink url="http://prototypejs.org">Prototype.js</ulink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://facebook.github.io/react">React</ulink>
           </para>
         </listitem>
         <listitem>
@@ -438,7 +442,12 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://gruntjs.com">Grunt</ulink>
+            <ulink url="http://gruntjs.com">Grunt</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://gulpjs.com">Gulp</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -459,7 +468,12 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://mongodb.org">MongoDB</ulink>
+            <ulink url="http://magento.com">Magento</ulink><superscript>†</superscript>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <ulink url="http://mongodb.org">MongoDB</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -530,7 +544,7 @@
         </listitem>
         <listitem>
           <para>
-            <ulink url="http://virtualbox.org">VirtualBox</ulink>
+            <ulink url="http://virtualbox.org">VirtualBox</ulink><superscript>†</superscript>
           </para>
         </listitem>
         <listitem>
@@ -555,17 +569,16 @@
     <title>Education</title>
     <para>
       <ulink url="http://sju.edu">Saint Joseph’s University</ulink>,
-      Erivan K. Haub School of
-      Business<literallayout></literallayout>BS, Information Systems,
-      1996 - 2000
+      Erivan K. Haub School of Business<literallayout>
+</literallayout>BS, Information Systems, 1996 - 2000
     </para>
   </sect2>
   <sect2 id="honors-and-awards">
     <title>Honors and Awards</title>
     <para>
-      <emphasis>Unsung Hero</emphasis>, Empathy Lab, May
-      2011<literallayout></literallayout>A peer-awarded honor which I’ll
-      always be terribly proud to have won.
+      <emphasis>Unsung Hero</emphasis>, Empathy Lab, May 2011<literallayout>
+</literallayout>A peer-awarded honor which I’ll always be terribly proud
+      to have won.
     </para>
   </sect2>
   <sect2 id="interests">
@@ -596,8 +609,8 @@
       </listitem>
     </itemizedlist>
     <para>
-      <br> <br> <br> ©2013 <ulink url="http://s17r.com/resume">Stephen
-      Tudor</ulink>. All rights reserved. Direct contact only desired
+      ©2014 <ulink url="http://s17r.com/resume">Stephen Tudor</ulink>.
+      All rights reserved. Direct contact only desired
       (no recruiters please).
     </para>
   </sect2>

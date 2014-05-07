@@ -4,11 +4,11 @@ Stephen Tudor
 Front-end Web Developer
 -----------------------
 
--  Phone: `610-590-4484 <tel://610-590-4484>`_
--  Email: `smt@stephentudor.com <mailto://smt@stephentudor.com>`_
--  Blog: `stephentudor.com <http://stephentudor.com>`_
--  Github: `smt <http://github.com/smt>`_
--  Twitter: `@tagsoup <http://twitter.com/tagsoup>`_
+-  Phone: `610-590-4484 <tel://610-590-4484>`__
+-  Email: smt@stephentudor.com
+-  Blog: `stephentudor.com <http://stephentudor.com>`__
+-  Github: `smt <http://github.com/smt>`__
+-  Twitter: `@tagsoup <http://twitter.com/tagsoup>`__
 
 Summary
 -------
@@ -32,19 +32,31 @@ strong background in many diverse web technologies and frameworks.
 Experience
 ----------
 
-**Senior Software Engineer** at `EPAM Empathy Lab <http://epam.com/empathylab>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**UX Developer** at `eBay Enterprise <http://ebayenterprise.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*December 2012 - Present*
+*November 2013 - Present*
 
-Championing a more collaborative process for responsive web design
-between the UX and development disciplines. Curating an internal static
+As a member of the Solution Innovations team, I am creating a RWD
+pattern library as the system of record and living style guide for the
+next version of the Magento reference store. I also support sales
+activities by building and deploying various tools and services, such as
+a third-party JavaScript app that enables users to annotate any website
+with content authored in a WordPress blog.
+
+**Senior Software Engineer** at `EPAM Empathy Lab <http://epam.com/empathylab>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*December 2012 - November 2013*
+
+Championed a more collaborative process for responsive web design
+between the UX and development disciplines. Curated an internal static
 web framework and responsive pattern library to be used on multiple
-projects. Leading development on responsive prototypes for NBC
-Universal, DIRECTV, AIG, Lionsgate, and the USA Network.
+projects. Lead development on responsive prototypes for NBC Universal,
+DIRECTV, AIG, Lionsgate, and the USA Network.
 
-**Senior Web Developer** at `Empathy Lab <http://empathylab.com>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Senior Web Developer** at `Empathy Lab <http://empathylab.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *April 2010 - December 2012*
 
@@ -54,8 +66,8 @@ development, developing key features, assisting team members on
 challenging sections of code, performing code reviews, and coordinating
 releases.
 
-**Web Developer** at `Empathy Lab <http://empathylab.com>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Web Developer** at `Empathy Lab <http://empathylab.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *April 2009 - April 2010* (1 year 1 month)
 
@@ -64,8 +76,8 @@ representing a broad range of internationally recognized brands: Sesame
 Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st
 Century Insurance, Liberty Global, American Red Cross.
 
-**IT Director** at `Artisan Custom Doorworks <http://artisandoorworks.com>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**IT Director** at `Artisan Custom Doorworks <http://artisandoorworks.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *December 2005 - April 2009* (3 years 5 months)
 
@@ -74,8 +86,8 @@ PDF docemunts. Developed in-house sales and management application in
 Rails, while supporting and customizing business systems and
 applications.
 
-**President** at `Tudor Studio <http://tudorstudio.com>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**President** at `Tudor Studio <http://tudorstudio.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *January 2002 - Present*
 
@@ -104,116 +116,117 @@ my daily work are denoted with a :sup:`†` symbol.
 Programming Languages
 ~~~~~~~~~~~~~~~~~~~~~
 
--  `JavaScript <http://developer.mozilla.org/en/JavaScript>`_\ :sup:`†`
--  `PHP <http://php.net>`_
--  `Python <http://python.org>`_
--  `Ruby <http://ruby-lang.org>`_\ :sup:`†`
+-  `JavaScript <http://developer.mozilla.org/en/JavaScript>`__\ :sup:`†`
+-  `PHP <http://php.net>`__
+-  `Ruby <http://ruby-lang.org>`__\ :sup:`†`
 
 Markup/Templating Languages & Preprocessors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `CoffeeScript <http://coffeescript.org>`_
--  `CSS <http://www.w3.org/Style/CSS/Overview.en.html>`_\ :sup:`†`
--  `Dust.js <http://linkedin.github.com/dustjs>`_
--  `ERB/eRuby <http://en.wikipedia.org/wiki/ERuby>`_
--  `Haml <http://haml.info>`_
--  `Handlebars.js <http://handlebarsjs.com>`_
--  `HTML <http://developers.whatwg.org>`_\ :sup:`†`
--  `Jade <http://jade-lang.com>`_
--  `JSP <http://www.oracle.com/technetwork/java/javaee/jsp>`_
--  `JSTL <http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html>`_\ :sup:`†`
--  `LESS <http://lesscss.org>`_\ :sup:`†`
--  `Liquid <http://liquidmarkup.org>`_
--  `Markdown <http://daringfireball.net/projects/markdown>`_\ :sup:`†`
--  `Mustache <http://mustache.github.com>`_
--  `Sass <http://sass-lang.com>`_\ :sup:`†`
--  `Smarty <http://smarty.net>`_
--  `Stylus <http://learnboost.github.com/stylus>`_
+-  `CoffeeScript <http://coffeescript.org>`__
+-  `CSS <http://www.w3.org/Style/CSS/Overview.en.html>`__\ :sup:`†`
+-  `Dust.js <http://linkedin.github.io/dustjs>`__
+-  `ERB/eRuby <http://en.wikipedia.org/wiki/ERuby>`__
+-  `Haml <http://haml.info>`__
+-  `Handlebars.js <http://handlebarsjs.com>`__
+-  `HTML <http://developers.whatwg.org>`__\ :sup:`†`
+-  `Jade <http://jade-lang.com>`__
+-  `JSP <http://www.oracle.com/technetwork/java/javaee/jsp>`__
+-  `JSTL <http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html>`__
+-  `LESS <http://lesscss.org>`__\ :sup:`†`
+-  `Liquid <http://liquidmarkup.org>`__
+-  `Markdown <http://daringfireball.net/projects/markdown>`__\ :sup:`†`
+-  `Mustache <http://mustache.github.io>`__
+-  `Sass <http://sass-lang.com>`__\ :sup:`†`
+-  `Smarty <http://smarty.net>`__
+-  `Swig <http://paularmstrong.github.io/swig>`__
+-  `Stylus <http://learnboost.github.io/stylus>`__
 
 Frameworks & APIs
 ~~~~~~~~~~~~~~~~~
 
--  `Backbone.js <http://backbonejs.org>`_\ :sup:`†`
--  `Bower <http://bower.io>`_
--  `Buster.js <http://busterjs.org>`_
--  `Compass <http://compass-style.org>`_\ :sup:`†`
--  `CodeIgniter <http://codeigniter.com>`_
--  `Django <http://www.djangoproject.com>`_
--  `Dojo <http://dojotoolkit.org>`_
--  `Express <http://expressjs.com>`_
--  `FaceBook Open Graph <http://developers.facebook.com>`_
--  `Gigya <http://developers.gigya.com>`_
--  `Google Maps API <http://developers.google.com/maps>`_
--  `jQuery <http://jquery.com>`_\ :sup:`†`
--  `Lodash <http://lodash.com>`_\ :sup:`†`
--  `Meteor <http://meteor.com>`_
--  `Middleman <http://middlemanapp.com>`_
--  `Node.js <http://nodejs.org>`_
--  `Prototype.js <http://prototypejs.org>`_
--  `Require.js <http://requirejs.org>`_\ :sup:`†`
--  `Ruby on Rails <http://rubyonrails.org>`_
--  `Sinatra <http://sinatrarb.com>`_
--  `Twitter API <http://dev.twitter.com>`_
--  `Underscore.js <http://underscorejs.org>`_\ :sup:`†`
--  `Wordpress <http://wordpress.org>`_
--  `YUI <http://developer.yahoo.com/yui>`_
+-  `Backbone.js <http://backbonejs.org>`__\ :sup:`†`
+-  `Bower <http://bower.io>`__
+-  `Browserify <http://browserify.org>`__\ :sup:`†`
+-  `Compass <http://compass-style.org>`__\ :sup:`†`
+-  `Django <http://www.djangoproject.com>`__
+-  `Express <http://expressjs.com>`__\ :sup:`†`
+-  `Jasmine <http://jasmine.github.io>`__
+-  `jQuery <http://jquery.com>`__\ :sup:`†`
+-  `krakenjs <http://krakenjs.com>`__
+-  `Lodash <http://lodash.com>`__\ :sup:`†`
+-  `Meteor <http://meteor.com>`__
+-  `Middleman <http://middlemanapp.com>`__
+-  `Node.js <http://nodejs.org>`__\ :sup:`†`
+-  `Prototype.js <http://prototypejs.org>`__
+-  `React <http://facebook.github.io/react>`__
+-  `Require.js <http://requirejs.org>`__\ :sup:`†`
+-  `Ruby on Rails <http://rubyonrails.org>`__
+-  `Sinatra <http://sinatrarb.com>`__
+-  `Twitter API <http://dev.twitter.com>`__
+-  `Underscore.js <http://underscorejs.org>`__\ :sup:`†`
+-  `Wordpress <http://wordpress.org>`__
+-  `YUI <http://developer.yahoo.com/yui>`__
 
 Software & Tools
 ~~~~~~~~~~~~~~~~
 
 -  `Adobe Creative
-   Suite <http://www.adobe.com/products/creativesuite.html>`_\ :sup:`†`
--  `Amazon Web Services <http://aws.amazon.com>`_
--  `Apache <http://apache.org>`_\ :sup:`†`
--  `Apple XCode <http://developer.apple.com>`_
--  `Demandware <http://demandware.com>`_
--  `Git <http://git-scm.com>`_\ :sup:`†`
--  `Grunt <http://gruntjs.com>`_
--  `JBoss <http://jboss.org>`_
--  `JIRA <http://atlassian.com/software/jira>`_\ :sup:`†`
--  `Mac OS X <http://apple.com/macosx>`_\ :sup:`†`
--  `MongoDB <http://mongodb.org>`_
--  `MySQL <http://mysql.com>`_
--  `Nginx <http://wiki.nginx.org>`_
+   Suite <http://www.adobe.com/products/creativesuite.html>`__\ :sup:`†`
+-  `Amazon Web Services <http://aws.amazon.com>`__
+-  `Apache <http://apache.org>`__\ :sup:`†`
+-  `Apple XCode <http://developer.apple.com>`__
+-  `Demandware <http://demandware.com>`__
+-  `Git <http://git-scm.com>`__\ :sup:`†`
+-  `Grunt <http://gruntjs.com>`__\ :sup:`†`
+-  `Gulp <http://gulpjs.com>`__\ :sup:`†`
+-  `JBoss <http://jboss.org>`__
+-  `JIRA <http://atlassian.com/software/jira>`__\ :sup:`†`
+-  `Mac OS X <http://apple.com/macosx>`__\ :sup:`†`
+-  `Magento <http://magento.com>`__\ :sup:`†`
+-  `MongoDB <http://mongodb.org>`__\ :sup:`†`
+-  `MySQL <http://mysql.com>`__
+-  `Nginx <http://wiki.nginx.org>`__
 -  `Oracle
-   ATG <http://www.oracle.com/us/products/applications/web-commerce/atg>`_
--  `Pandoc <http://johnmacfarlane.net/pandoc>`_
--  `PostgreSQL <http://postgresql.org>`_
--  `rvm <http://rvm.beginrescueend.com>`_\ :sup:`†`
--  `Sublime Text <http://www.sublimetext.com>`_
--  `Subversion <http://svn.apache.org>`_
--  `tmux <http://tmux.sourceforge.net>`_\ :sup:`†`
--  `Tomcat <http://tomcat.apache.com>`_
--  `Ubuntu Linux <http://ubuntu.com>`_
--  `Vagrant <http://vagrantup.com>`_
--  `Vim <http://www.vim.org>`_\ :sup:`†`
--  `VirtualBox <http://virtualbox.org>`_
--  `WebStorm <http://jetbrains.com/webstorm>`_
--  `Yeoman <http://yeoman.io>`_
--  `zsh <http://www.zsh.org>`_\ :sup:`†`
+   ATG <http://www.oracle.com/us/products/applications/web-commerce/atg>`__
+-  `Pandoc <http://johnmacfarlane.net/pandoc>`__
+-  `PostgreSQL <http://postgresql.org>`__
+-  `rvm <http://rvm.beginrescueend.com>`__\ :sup:`†`
+-  `Sublime Text <http://www.sublimetext.com>`__
+-  `Subversion <http://svn.apache.org>`__
+-  `tmux <http://tmux.sourceforge.net>`__\ :sup:`†`
+-  `Tomcat <http://tomcat.apache.com>`__
+-  `Ubuntu Linux <http://ubuntu.com>`__
+-  `Vagrant <http://vagrantup.com>`__
+-  `Vim <http://www.vim.org>`__\ :sup:`†`
+-  `VirtualBox <http://virtualbox.org>`__\ :sup:`†`
+-  `WebStorm <http://jetbrains.com/webstorm>`__
+-  `Yeoman <http://yeoman.io>`__
+-  `zsh <http://www.zsh.org>`__\ :sup:`†`
 
 Education
 ---------
 
-`Saint Joseph's University <http://sju.edu>`_, Erivan K. Haub School of
-Business
-BS, Information Systems, 1996 - 2000
+| `Saint Joseph's University <http://sju.edu>`__, Erivan K. Haub School
+of Business
+| BS, Information Systems, 1996 - 2000
 
 Honors and Awards
 -----------------
 
-*Unsung Hero*, Empathy Lab, May 2011
-A peer-awarded honor which I'll always be terribly proud to have won.
+| *Unsung Hero*, Empathy Lab, May 2011
+| A peer-awarded honor which I'll always be terribly proud to have won.
 
 Interests
 ---------
 
 -  Being a dad and spending time with my family
 -  Playing `board and card
-   games <http://boardgamegeek.com/user/smtudor>`_ (and video games,
+   games <http://boardgamegeek.com/user/smtudor>`__ (and video games,
    too)
--  Making and listening to `music <http://www.rdio.com/people/smtudor>`_
+-  Making and listening to
+   `music <http://www.rdio.com/people/smtudor>`__
 -  Watching and contributing to Open Source Software
 
- ©2013 `Stephen Tudor <http://s17r.com/resume>`_. All rights reserved.
+©2014 `Stephen Tudor <http://s17r.com/resume>`__. All rights reserved.
 Direct contact only desired (no recruiters please).

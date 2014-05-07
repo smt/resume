@@ -5,10 +5,10 @@ Front-end Web Developer
 -----------------------
 
 - Phone: [610-590-4484](tel://610-590-4484)
-- Email: [smt@stephentudor.com](mailto://smt@stephentudor.com)
+- Email: <smt@stephentudor.com>
 - Blog: [stephentudor.com](http://stephentudor.com)
 - Github: [smt](http://github.com/smt)
-- Twitter: [@tagsoup](http://twitter.com/tagsoup)
+- Twitter: [\@tagsoup](http://twitter.com/tagsoup)
 
 
 Summary
@@ -34,13 +34,24 @@ technologies and frameworks.
 Experience
 ----------
 
+### **UX Developer** at [eBay Enterprise](http://ebayenterprise.com)
+
+*November 2013 - Present*
+
+As a member of the Solution Innovations team, I am creating a RWD pattern
+library as the system of record and living style guide for the next version of
+the Magento reference store. I also support sales activities by building and
+deploying various tools and services, such as a third-party JavaScript app that
+enables users to annotate any website with content authored in a WordPress
+blog.
+
 ### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
 
-*December 2012 - Present*
+*December 2012 - November 2013*
 
-Championing a more collaborative process for responsive web design between the
-UX and development disciplines. Curating an internal static web framework and
-responsive pattern library to be used on multiple projects. Leading development
+Championed a more collaborative process for responsive web design between the
+UX and development disciplines. Curated an internal static web framework and
+responsive pattern library to be used on multiple projects. Lead development
 on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
 USA Network.
 
@@ -99,48 +110,46 @@ denoted with a ^†^ symbol.
 
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
-- [Python](http://python.org)
 - [Ruby](http://ruby-lang.org)^†^
 
 ### Markup/Templating Languages & Preprocessors
 
 - [CoffeeScript](http://coffeescript.org)
 - [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [Dust.js](http://linkedin.github.com/dustjs)
+- [Dust.js](http://linkedin.github.io/dustjs)
 - [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
 - [Haml](http://haml.info)
 - [Handlebars.js](http://handlebarsjs.com)
 - [HTML](http://developers.whatwg.org)^†^
 - [Jade](http://jade-lang.com)
 - [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
-- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)^†^
+- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
 - [LESS](http://lesscss.org)^†^
 - [Liquid](http://liquidmarkup.org)
 - [Markdown](http://daringfireball.net/projects/markdown)^†^
-- [Mustache](http://mustache.github.com)
+- [Mustache](http://mustache.github.io)
 - [Sass](http://sass-lang.com)^†^
 - [Smarty](http://smarty.net)
-- [Stylus](http://learnboost.github.com/stylus)
+- [Swig](http://paularmstrong.github.io/swig)
+- [Stylus](http://learnboost.github.io/stylus)
 
 ### Frameworks & APIs
 
 - [Backbone.js](http://backbonejs.org)^†^
 - [Bower](http://bower.io)
-- [Buster.js](http://busterjs.org)
+- [Browserify](http://browserify.org)^†^
 - [Compass](http://compass-style.org)^†^
-- [CodeIgniter](http://codeigniter.com)
 - [Django](http://www.djangoproject.com)
-- [Dojo](http://dojotoolkit.org)
-- [Express](http://expressjs.com)
-- [FaceBook Open Graph](http://developers.facebook.com)
-- [Gigya](http://developers.gigya.com)
-- [Google Maps API](http://developers.google.com/maps)
+- [Express](http://expressjs.com)^†^
+- [Jasmine](http://jasmine.github.io)
 - [jQuery](http://jquery.com)^†^
+- [krakenjs](http://krakenjs.com)
 - [Lodash](http://lodash.com)^†^
 - [Meteor](http://meteor.com)
 - [Middleman](http://middlemanapp.com)
-- [Node.js](http://nodejs.org)
+- [Node.js](http://nodejs.org)^†^
 - [Prototype.js](http://prototypejs.org)
+- [React](http://facebook.github.io/react)
 - [Require.js](http://requirejs.org)^†^
 - [Ruby on Rails](http://rubyonrails.org)
 - [Sinatra](http://sinatrarb.com)
@@ -157,11 +166,13 @@ denoted with a ^†^ symbol.
 - [Apple XCode](http://developer.apple.com)
 - [Demandware](http://demandware.com)
 - [Git](http://git-scm.com)^†^
-- [Grunt](http://gruntjs.com)
+- [Grunt](http://gruntjs.com)^†^
+- [Gulp](http://gulpjs.com)^†^
 - [JBoss](http://jboss.org)
 - [JIRA](http://atlassian.com/software/jira)^†^
 - [Mac OS X](http://apple.com/macosx)^†^
-- [MongoDB](http://mongodb.org)
+- [Magento](http://magento.com)^†^
+- [MongoDB](http://mongodb.org)^†^
 - [MySQL](http://mysql.com)
 - [Nginx](http://wiki.nginx.org)
 - [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
@@ -175,7 +186,7 @@ denoted with a ^†^ symbol.
 - [Ubuntu Linux](http://ubuntu.com)
 - [Vagrant](http://vagrantup.com)
 - [Vim](http://www.vim.org)^†^
-- [VirtualBox](http://virtualbox.org)
+- [VirtualBox](http://virtualbox.org)^†^
 - [WebStorm](http://jetbrains.com/webstorm)
 - [Yeoman](http://yeoman.io)
 - [zsh](http://www.zsh.org)^†^
@@ -200,7 +211,4 @@ Interests
 - Making and listening to [music](http://www.rdio.com/people/smtudor)
 - Watching and contributing to Open Source Software
 
-<br>
-<br>
-<br>
-©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters&nbsp;please).
+©2014 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters&nbsp;please).

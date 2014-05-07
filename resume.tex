@@ -6,7 +6,7 @@
 % Enable hyperlinks
 \setupinteraction[state=start, color=middleblue]
 
-\setuppapersize [letter][letter]  
+\setuppapersize [letter][letter]
 \setuplayout    [width=middle,  backspace=1.5in, cutspace=1.5in,
                  height=middle, topspace=0.75in, bottomspace=0.75in]
 
@@ -30,6 +30,9 @@
 \setupitemize[autointro]    % prevent orphan list intro
 \setupitemize[indentnext=no]
 
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
 \setupthinrules[width=15em] % width of horizontal rules
 
 \setupdelimitedtext
@@ -46,12 +49,12 @@
 
 \subsection[front-end-web-developer]{Front-end Web Developer}
 
-\startitemize
+\startitemize[packed]
 \item
   Phone: \useURL[url1][tel://610-590-4484][][610-590-4484]\from[url1]
 \item
   Email:
-  \useURL[url2][mailto://smt@stephentudor.com][][smt@stephentudor.com]\from[url2]
+  \useURL[url2][mailto:smt@stephentudor.com][][\hyphenatedurl{smt@stephentudor.com}]\from[url2]
 \item
   Blog:
   \useURL[url3][http://stephentudor.com][][stephentudor.com]\from[url3]
@@ -81,21 +84,33 @@ strong background in many diverse web technologies and frameworks.
 
 \subsection[experience]{Experience}
 
+\subsubsection[ux-developer-at-ebay-enterprise]{{\bf UX Developer} at
+\useURL[url6][http://ebayenterprise.com][][eBay Enterprise]\from[url6]}
+
+{\em November 2013 - Present}
+
+As a member of the Solution Innovations team, I am creating a RWD
+pattern library as the system of record and living style guide for the
+next version of the Magento reference store. I also support sales
+activities by building and deploying various tools and services, such as
+a third-party JavaScript app that enables users to annotate any website
+with content authored in a WordPress blog.
+
 \subsubsection[senior-software-engineer-at-epam-empathy-lab]{{\bf Senior
-Software Engineer} at \useURL[url6][http://epam.com/empathylab][][EPAM
-Empathy Lab]\from[url6]}
+Software Engineer} at \useURL[url7][http://epam.com/empathylab][][EPAM
+Empathy Lab]\from[url7]}
 
-{\em December 2012 - Present}
+{\em December 2012 - November 2013}
 
-Championing a more collaborative process for responsive web design
-between the UX and development disciplines. Curating an internal static
+Championed a more collaborative process for responsive web design
+between the UX and development disciplines. Curated an internal static
 web framework and responsive pattern library to be used on multiple
-projects. Leading development on responsive prototypes for NBC
-Universal, DIRECTV, AIG, Lionsgate, and the USA Network.
+projects. Lead development on responsive prototypes for NBC Universal,
+DIRECTV, AIG, Lionsgate, and the USA Network.
 
 \subsubsection[senior-web-developer-at-empathy-lab]{{\bf Senior Web
-Developer} at \useURL[url7][http://empathylab.com][][Empathy
-Lab]\from[url7]}
+Developer} at \useURL[url8][http://empathylab.com][][Empathy
+Lab]\from[url8]}
 
 {\em April 2010 - December 2012}
 
@@ -106,7 +121,7 @@ challenging sections of code, performing code reviews, and coordinating
 releases.
 
 \subsubsection[web-developer-at-empathy-lab]{{\bf Web Developer} at
-\useURL[url8][http://empathylab.com][][Empathy Lab]\from[url8]}
+\useURL[url9][http://empathylab.com][][Empathy Lab]\from[url9]}
 
 {\em April 2009 - April 2010} (1 year 1 month)
 
@@ -116,8 +131,8 @@ Street, Sprout, Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st
 Century Insurance, Liberty Global, American Red Cross.
 
 \subsubsection[it-director-at-artisan-custom-doorworks]{{\bf IT
-Director} at \useURL[url9][http://artisandoorworks.com][][Artisan Custom
-Doorworks]\from[url9]}
+Director} at \useURL[url10][http://artisandoorworks.com][][Artisan
+Custom Doorworks]\from[url10]}
 
 {\em December 2005 - April 2009} (3 years 5 months)
 
@@ -127,7 +142,7 @@ Rails, while supporting and customizing business systems and
 applications.
 
 \subsubsection[president-at-tudor-studio]{{\bf President} at
-\useURL[url10][http://tudorstudio.com][][Tudor Studio]\from[url10]}
+\useURL[url11][http://tudorstudio.com][][Tudor Studio]\from[url11]}
 
 {\em January 2002 - Present}
 
@@ -154,13 +169,11 @@ my daily work are denoted with a \high{†} symbol.
 
 \subsubsection[programming-languages]{Programming Languages}
 
-\startitemize
+\startitemize[packed]
 \item
-  \useURL[url11][http://developer.mozilla.org/en/JavaScript][][JavaScript]\from[url11]\high{†}
+  \useURL[url12][http://developer.mozilla.org/en/JavaScript][][JavaScript]\from[url12]\high{†}
 \item
-  \useURL[url12][http://php.net][][PHP]\from[url12]
-\item
-  \useURL[url13][http://python.org][][Python]\from[url13]
+  \useURL[url13][http://php.net][][PHP]\from[url13]
 \item
   \useURL[url14][http://ruby-lang.org][][Ruby]\from[url14]\high{†}
 \stopitemize
@@ -168,13 +181,13 @@ my daily work are denoted with a \high{†} symbol.
 \subsubsection[markuptemplating-languages-preprocessors]{Markup/Templating
 Languages & Preprocessors}
 
-\startitemize
+\startitemize[packed]
 \item
   \useURL[url15][http://coffeescript.org][][CoffeeScript]\from[url15]
 \item
   \useURL[url16][http://www.w3.org/Style/CSS/Overview.en.html][][CSS]\from[url16]\high{†}
 \item
-  \useURL[url17][http://linkedin.github.com/dustjs][][Dust.js]\from[url17]
+  \useURL[url17][http://linkedin.github.io/dustjs][][Dust.js]\from[url17]
 \item
   \useURL[url18][http://en.wikipedia.org/wiki/ERuby][][ERB/eRuby]\from[url18]
 \item
@@ -188,7 +201,7 @@ Languages & Preprocessors}
 \item
   \useURL[url23][http://www.oracle.com/technetwork/java/javaee/jsp][][JSP]\from[url23]
 \item
-  \useURL[url24][http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html][][JSTL]\from[url24]\high{†}
+  \useURL[url24][http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html][][JSTL]\from[url24]
 \item
   \useURL[url25][http://lesscss.org][][LESS]\from[url25]\high{†}
 \item
@@ -196,89 +209,87 @@ Languages & Preprocessors}
 \item
   \useURL[url27][http://daringfireball.net/projects/markdown][][Markdown]\from[url27]\high{†}
 \item
-  \useURL[url28][http://mustache.github.com][][Mustache]\from[url28]
+  \useURL[url28][http://mustache.github.io][][Mustache]\from[url28]
 \item
   \useURL[url29][http://sass-lang.com][][Sass]\from[url29]\high{†}
 \item
   \useURL[url30][http://smarty.net][][Smarty]\from[url30]
 \item
-  \useURL[url31][http://learnboost.github.com/stylus][][Stylus]\from[url31]
+  \useURL[url31][http://paularmstrong.github.io/swig][][Swig]\from[url31]
+\item
+  \useURL[url32][http://learnboost.github.io/stylus][][Stylus]\from[url32]
 \stopitemize
 
 \subsubsection[frameworks-apis]{Frameworks & APIs}
 
-\startitemize
+\startitemize[packed]
 \item
-  \useURL[url32][http://backbonejs.org][][Backbone.js]\from[url32]\high{†}
+  \useURL[url33][http://backbonejs.org][][Backbone.js]\from[url33]\high{†}
 \item
-  \useURL[url33][http://bower.io][][Bower]\from[url33]
+  \useURL[url34][http://bower.io][][Bower]\from[url34]
 \item
-  \useURL[url34][http://busterjs.org][][Buster.js]\from[url34]
+  \useURL[url35][http://browserify.org][][Browserify]\from[url35]\high{†}
 \item
-  \useURL[url35][http://compass-style.org][][Compass]\from[url35]\high{†}
-\item
-  \useURL[url36][http://codeigniter.com][][CodeIgniter]\from[url36]
+  \useURL[url36][http://compass-style.org][][Compass]\from[url36]\high{†}
 \item
   \useURL[url37][http://www.djangoproject.com][][Django]\from[url37]
 \item
-  \useURL[url38][http://dojotoolkit.org][][Dojo]\from[url38]
+  \useURL[url38][http://expressjs.com][][Express]\from[url38]\high{†}
 \item
-  \useURL[url39][http://expressjs.com][][Express]\from[url39]
+  \useURL[url39][http://jasmine.github.io][][Jasmine]\from[url39]
 \item
-  \useURL[url40][http://developers.facebook.com][][FaceBook Open
-  Graph]\from[url40]
+  \useURL[url40][http://jquery.com][][jQuery]\from[url40]\high{†}
 \item
-  \useURL[url41][http://developers.gigya.com][][Gigya]\from[url41]
+  \useURL[url41][http://krakenjs.com][][krakenjs]\from[url41]
 \item
-  \useURL[url42][http://developers.google.com/maps][][Google Maps
-  API]\from[url42]
+  \useURL[url42][http://lodash.com][][Lodash]\from[url42]\high{†}
 \item
-  \useURL[url43][http://jquery.com][][jQuery]\from[url43]\high{†}
+  \useURL[url43][http://meteor.com][][Meteor]\from[url43]
 \item
-  \useURL[url44][http://lodash.com][][Lodash]\from[url44]\high{†}
+  \useURL[url44][http://middlemanapp.com][][Middleman]\from[url44]
 \item
-  \useURL[url45][http://meteor.com][][Meteor]\from[url45]
+  \useURL[url45][http://nodejs.org][][Node.js]\from[url45]\high{†}
 \item
-  \useURL[url46][http://middlemanapp.com][][Middleman]\from[url46]
+  \useURL[url46][http://prototypejs.org][][Prototype.js]\from[url46]
 \item
-  \useURL[url47][http://nodejs.org][][Node.js]\from[url47]
+  \useURL[url47][http://facebook.github.io/react][][React]\from[url47]
 \item
-  \useURL[url48][http://prototypejs.org][][Prototype.js]\from[url48]
+  \useURL[url48][http://requirejs.org][][Require.js]\from[url48]\high{†}
 \item
-  \useURL[url49][http://requirejs.org][][Require.js]\from[url49]\high{†}
+  \useURL[url49][http://rubyonrails.org][][Ruby on Rails]\from[url49]
 \item
-  \useURL[url50][http://rubyonrails.org][][Ruby on Rails]\from[url50]
+  \useURL[url50][http://sinatrarb.com][][Sinatra]\from[url50]
 \item
-  \useURL[url51][http://sinatrarb.com][][Sinatra]\from[url51]
+  \useURL[url51][http://dev.twitter.com][][Twitter API]\from[url51]
 \item
-  \useURL[url52][http://dev.twitter.com][][Twitter API]\from[url52]
+  \useURL[url52][http://underscorejs.org][][Underscore.js]\from[url52]\high{†}
 \item
-  \useURL[url53][http://underscorejs.org][][Underscore.js]\from[url53]\high{†}
+  \useURL[url53][http://wordpress.org][][Wordpress]\from[url53]
 \item
-  \useURL[url54][http://wordpress.org][][Wordpress]\from[url54]
-\item
-  \useURL[url55][http://developer.yahoo.com/yui][][YUI]\from[url55]
+  \useURL[url54][http://developer.yahoo.com/yui][][YUI]\from[url54]
 \stopitemize
 
 \subsubsection[software-tools]{Software & Tools}
 
-\startitemize
+\startitemize[packed]
 \item
-  \useURL[url56][http://www.adobe.com/products/creativesuite.html][][Adobe
-  Creative Suite]\from[url56]\high{†}
+  \useURL[url55][http://www.adobe.com/products/creativesuite.html][][Adobe
+  Creative Suite]\from[url55]\high{†}
 \item
-  \useURL[url57][http://aws.amazon.com][][Amazon Web
-  Services]\from[url57]
+  \useURL[url56][http://aws.amazon.com][][Amazon Web
+  Services]\from[url56]
 \item
-  \useURL[url58][http://apache.org][][Apache]\from[url58]\high{†}
+  \useURL[url57][http://apache.org][][Apache]\from[url57]\high{†}
 \item
-  \useURL[url59][http://developer.apple.com][][Apple XCode]\from[url59]
+  \useURL[url58][http://developer.apple.com][][Apple XCode]\from[url58]
 \item
-  \useURL[url60][http://demandware.com][][Demandware]\from[url60]
+  \useURL[url59][http://demandware.com][][Demandware]\from[url59]
 \item
-  \useURL[url61][http://git-scm.com][][Git]\from[url61]\high{†}
+  \useURL[url60][http://git-scm.com][][Git]\from[url60]\high{†}
 \item
-  \useURL[url62][http://gruntjs.com][][Grunt]\from[url62]
+  \useURL[url61][http://gruntjs.com][][Grunt]\from[url61]\high{†}
+\item
+  \useURL[url62][http://gulpjs.com][][Gulp]\from[url62]\high{†}
 \item
   \useURL[url63][http://jboss.org][][JBoss]\from[url63]
 \item
@@ -287,47 +298,49 @@ Languages & Preprocessors}
   \useURL[url65][http://apple.com/macosx][][Mac OS
   X]\from[url65]\high{†}
 \item
-  \useURL[url66][http://mongodb.org][][MongoDB]\from[url66]
+  \useURL[url66][http://magento.com][][Magento]\from[url66]\high{†}
 \item
-  \useURL[url67][http://mysql.com][][MySQL]\from[url67]
+  \useURL[url67][http://mongodb.org][][MongoDB]\from[url67]\high{†}
 \item
-  \useURL[url68][http://wiki.nginx.org][][Nginx]\from[url68]
+  \useURL[url68][http://mysql.com][][MySQL]\from[url68]
 \item
-  \useURL[url69][http://www.oracle.com/us/products/applications/web-commerce/atg][][Oracle
-  ATG]\from[url69]
+  \useURL[url69][http://wiki.nginx.org][][Nginx]\from[url69]
 \item
-  \useURL[url70][http://johnmacfarlane.net/pandoc][][Pandoc]\from[url70]
+  \useURL[url70][http://www.oracle.com/us/products/applications/web-commerce/atg][][Oracle
+  ATG]\from[url70]
 \item
-  \useURL[url71][http://postgresql.org][][PostgreSQL]\from[url71]
+  \useURL[url71][http://johnmacfarlane.net/pandoc][][Pandoc]\from[url71]
 \item
-  \useURL[url72][http://rvm.beginrescueend.com][][rvm]\from[url72]\high{†}
+  \useURL[url72][http://postgresql.org][][PostgreSQL]\from[url72]
 \item
-  \useURL[url73][http://www.sublimetext.com][][Sublime Text]\from[url73]
+  \useURL[url73][http://rvm.beginrescueend.com][][rvm]\from[url73]\high{†}
 \item
-  \useURL[url74][http://svn.apache.org][][Subversion]\from[url74]
+  \useURL[url74][http://www.sublimetext.com][][Sublime Text]\from[url74]
 \item
-  \useURL[url75][http://tmux.sourceforge.net][][tmux]\from[url75]\high{†}
+  \useURL[url75][http://svn.apache.org][][Subversion]\from[url75]
 \item
-  \useURL[url76][http://tomcat.apache.com][][Tomcat]\from[url76]
+  \useURL[url76][http://tmux.sourceforge.net][][tmux]\from[url76]\high{†}
 \item
-  \useURL[url77][http://ubuntu.com][][Ubuntu Linux]\from[url77]
+  \useURL[url77][http://tomcat.apache.com][][Tomcat]\from[url77]
 \item
-  \useURL[url78][http://vagrantup.com][][Vagrant]\from[url78]
+  \useURL[url78][http://ubuntu.com][][Ubuntu Linux]\from[url78]
 \item
-  \useURL[url79][http://www.vim.org][][Vim]\from[url79]\high{†}
+  \useURL[url79][http://vagrantup.com][][Vagrant]\from[url79]
 \item
-  \useURL[url80][http://virtualbox.org][][VirtualBox]\from[url80]
+  \useURL[url80][http://www.vim.org][][Vim]\from[url80]\high{†}
 \item
-  \useURL[url81][http://jetbrains.com/webstorm][][WebStorm]\from[url81]
+  \useURL[url81][http://virtualbox.org][][VirtualBox]\from[url81]\high{†}
 \item
-  \useURL[url82][http://yeoman.io][][Yeoman]\from[url82]
+  \useURL[url82][http://jetbrains.com/webstorm][][WebStorm]\from[url82]
 \item
-  \useURL[url83][http://www.zsh.org][][zsh]\from[url83]\high{†}
+  \useURL[url83][http://yeoman.io][][Yeoman]\from[url83]
+\item
+  \useURL[url84][http://www.zsh.org][][zsh]\from[url84]\high{†}
 \stopitemize
 
 \subsection[education]{Education}
 
-\useURL[url84][http://sju.edu][][Saint Joseph's University]\from[url84],
+\useURL[url85][http://sju.edu][][Saint Joseph's University]\from[url85],
 Erivan K. Haub School of Business\crlf
 BS, Information Systems, 1996 - 2000
 
@@ -338,21 +351,21 @@ A peer-awarded honor which I'll always be terribly proud to have won.
 
 \subsection[interests]{Interests}
 
-\startitemize
+\startitemize[packed]
 \item
   Being a dad and spending time with my family
 \item
-  Playing \useURL[url85][http://boardgamegeek.com/user/smtudor][][board
-  and card games]\from[url85] (and video games, too)
+  Playing \useURL[url86][http://boardgamegeek.com/user/smtudor][][board
+  and card games]\from[url86] (and video games, too)
 \item
   Making and listening to
-  \useURL[url86][http://www.rdio.com/people/smtudor][][music]\from[url86]
+  \useURL[url87][http://www.rdio.com/people/smtudor][][music]\from[url87]
 \item
   Watching and contributing to Open Source Software
 \stopitemize
 
- ©2013 \useURL[url87][http://s17r.com/resume][][Stephen
-Tudor]\from[url87]. All rights reserved. Direct contact only desired
+©2014 \useURL[url88][http://s17r.com/resume][][Stephen
+Tudor]\from[url88]. All rights reserved. Direct contact only desired
 (no~recruiters~please).
 
 \stoptext
